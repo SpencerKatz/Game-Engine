@@ -1,0 +1,18 @@
+/* styles.css */
+@font-face {
+  font-family: "Press Start 2P";
+  src: url("PressStart2P-Regular.ttf");
+}
+
+.language_box {
+  -fx-padding: 20;
+  -fx-pref-height: 200;
+}
+
+.drop_down_menu .list-cell {
+  -fx-pref-width: 100;
+  -fx-pref-height: 30;
+  -fx-background-color: grey;
+  -fx-font-family: "Press Start 2P";
+  -fx-stroke: white;
+}

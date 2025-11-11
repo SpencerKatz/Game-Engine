@@ -1,0 +1,68 @@
+{
+  "properties": {
+    "configName": "DEFAULT_GAME_NAME",
+    "author": "OOGAValley Devs",
+    "goalCondition": "time",
+    "doEnergy": true,
+    "doEnergyRecovery": true,
+    // can also be set to "death" or "none"
+    "onZeroEnergyStrategy": "collapse",
+    "energyAmount": 20,
+    // regenerate 1 energy every 60 in-game minutes
+    "energyRecoveryRate": 60,
+    "energyRecoveryAmount": 1,
+    // collapsing takes you out for 2 days
+    "collapseTimePenalty": 2880,
+    // currently the shop rotates every day
+    "shopRotationTime": 1440,
+    // how many items on sale at a time
+    "shopRotationSize": 3,
+    // which hour to wake up on after sleeping
+    "wakeHour": 6,
+    "timeMultiplier": 1,
+    "timeGoal": 10080 // one week in game
+  },
+  "listProperties": {
+    // the possible items to go on rotation in the shop
+    "shopPossibleItems": [
+      "Wheat Seeds",
+      "Hoe",
+      "Pickaxe",
+      "Scythe",
+      "Cake"
+    ]
+  },
+  "mapProperties": {
+    "startingItems": {
+      "Hoe": 1,
+      "Scythe": 1,
+      "Wheat Seeds": 5
+    },
+    "collectGoal": {
+      "Wheat": 10
+    }
+  },
+  "propertiesType": {
+    "String": [
+      "configName",
+      "author",
+      "goalCondition",
+      "onZeroEnergyStrategy"
+    ],
+    "boolean": [
+      "doEnergy",
+      "doEnergyRecovery"
+    ],
+    "int": [
+      "energyAmount",
+      "energyRecoveryRate",
+      "exhaustedEnergyCollapseTimePenalty",
+      "timeMultiplier",
+      "timeGoal",
+      "wakeHour",
+      "shopRotationTime",
+      "shopRotationSize",
+      "energyRecoverAmount"
+    ]
+  }
+}

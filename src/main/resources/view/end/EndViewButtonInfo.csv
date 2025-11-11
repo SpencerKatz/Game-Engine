@@ -1,0 +1,3 @@
+end-back-to-menu-button,oogasalad.view.end.buttons.BackToMainMenuButtonAction,performAction
+end-restart-button,oogasalad.view.end.buttons.RestartButtonAction,performAction
+end-next-button,oogasalad.view.end.buttons.NextLevelButtonAction,performAction

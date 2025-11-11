@@ -1,0 +1,4 @@
+Yeni, pink, oogasalad.view.start.PlayModeSplashScreen, makeConfigChooser
+Yükle, lightblue, oogasalad.view.start.PlayModeSplashScreen, makeChooser
+Yarat, pink, oogasalad.view.editor.EditorScene, start
+Geri, lightblue, oogasalad.view.start.PlayModeSplashScreen, goBackScene

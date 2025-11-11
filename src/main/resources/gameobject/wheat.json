@@ -1,0 +1,53 @@
+{
+  "properties": {
+    // PROPERTIES FOR ALL GAME OBJECTS
+    // This is the id of the object and must be unique within the game configuration,
+    // otherwise one will overwrite the other in an undefined way.
+    "name": "wheat",
+    "type": "GameObject",
+    // This is filename of the image which the view will use to display this object.
+    // The file must exist in the `data/images` directory.
+    "image": "img/wheat.png",
+    "updatable": true,
+    "updateTime": 1500,
+    "updateTransformation": null,
+    // If true, then the object should expire "lifeDuration" time after the object was placed.
+    // If "expireTransformation" is non-null, then the object transforms into "GAME_OBJECT" when
+    "expirable": false,
+    "expireTime": 120,
+    // or null
+    "expireTransformation": null
+  },
+  "listProperties": {},
+  "mapProperties": {
+    /*
+        *  Maps an item usage to transform the object into a different object.
+        *  e.g. "hoe":"tilledLand" | using a hoe transforms this land object into a tilledLand object.
+        */
+    "interactTransformations": {
+    },
+    /*
+    *  Maps an item usage to destroy/harvest/collect the object to a multiplier on the drops.
+    *  e.g. "enchanted_scythe":5 | using an enchanted scythe will multiply drops by 5x.
+    */
+    "interactDropMultipliers": {
+    },
+    /*
+    *  If interacted with by an item in "interactDrops", then drop the corresponding entry's items.
+    *  Otherwise drop "defaultDrops".
+    */
+    /* CURRENTLY NOT SUPPORTED
+    * "interactDrops": {
+    *   "pocket_watch": [
+    *   "time_dust",
+    *   "OBJECT_NAME"
+    *  ]
+    * },
+    */
+
+    // MOVE TO STRUCTURES ONLY
+    "isDestructable": false,
+    "dropsOnDestruction": {
+    }
+  }
+}

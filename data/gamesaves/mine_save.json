@@ -1,0 +1,2533 @@
+{
+  "gameWorld": {
+    "allTiles": [
+      [
+        {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        {
+          "collectable": null,
+          "structure": null,
+          "land": {
+            "expired": false,
+            "timeSinceExpiringState": null,
+            "creationTime": {
+              "type": "oogasalad.model.gameplay.GameTime",
+              "data": "{\"previous\":{\"data\":\"2024-05-01T21:44:56.284248500Z\"},\"accumulate\":0,\"day\":1,\"hour\":8,\"minute\":0}"
+            },
+            "changePropertiesOnNextIteration": false,
+            "id": "empty",
+            "nextId": "empty",
+            "lastUpdateGameTime": {
+              "type": "oogasalad.model.gameplay.GameTime",
+              "data": "{\"previous\":{\"data\":\"2024-05-01T21:51:42.043547100Z\"},\"accumulate\":0,\"day\":5,\"hour\":7,\"minute\":50}"
+            }
+          },
+          "lastUpdatingGameTime": {
+            "type": "oogasalad.model.gameplay.GameTime",
+            "data": "{\"previous\":{\"data\":\"2024-05-01T21:51:42.043547100Z\"},\"accumulate\":0,\"day\":5,\"hour\":7,\"minute\":50}"
+          }
+        }
+      ],
+      [
+        {
+          "x": 4,
+          "y": 4,
+          "z": 0
+        },
+        {
+          "collectable": null,
+          "structure": null,
+          "land": {
+            "expired": false,
+            "timeSinceExpiringState": null,
+            "creationTime": {
+              "type": "oogasalad.model.gameplay.GameTime",
+              "data": "{\"previous\":{\"data\":\"2024-05-01T21:45:49.884425800Z\"},\"accumulate\":0,\"day\":4,\"hour\":6,\"minute\":20}"
+            },
+            "changePropertiesOnNextIteration": false,
+            "id": "empty",
+            "nextId": "empty",
+            "lastUpdateGameTime": {
+              "type": "oogasalad.model.gameplay.GameTime",
+              "data": "{\"previous\":{\"data\":\"2024-05-01T21:51:42.043547100Z\"},\"accumulate\":0,\"day\":5,\"hour\":7,\"minute\":50}"
+            }
+          },
+          "lastUpdatingGameTime": {
+            "type": "oogasalad.model.gameplay.GameTime",
+            "data": "{\"previous\":{\"data\":\"2024-05-01T21:51:42.043547100Z\"},\"accumulate\":0,\"day\":5,\"hour\":7,\"minute\":50}"
+          }
+        }
+      ],
+      [
+        {
+          "x": 8,
+          "y": 8,
+          "z": 0
+        },
+        {
+          "collectable": null,
+          "structure": null,
+          "land": {
+            "expired": false,
+            "timeSinceExpiringState": null,
+            "creationTime": {
+              "type": "oogasalad.model.gameplay.GameTime",
+              "data": "{\"previous\":{\"data\":\"2024-05-01T21:45:54.907649300Z\"},\"accumulate\":0,\"day\":4,\"hour\":6,\"minute\":20}"
+            },
+            "changePropertiesOnNextIteration": false,
+            "id": "empty",
+            "nextId": "empty",
+            "lastUpdateGameTime": {
+              "type": "oogasalad.model.gameplay.GameTime",
+              "data": "{\"previous\":{\"data\":\"2024-05-01T21:51:42.043547100Z\"},\"accumulate\":0,\"day\":5,\"hour\":7,\"minute\":50}"
+            }
+          },
+          "lastUpdatingGameTime": {
+            "type": "oogasalad.model.gameplay.GameTime",
+            "data": "{\"previous\":{\"data\":\"2024-05-01T21:51:42.043547100Z\"},\"accumulate\":0,\"day\":5,\"hour\":7,\"minute\":50}"
+          }
+        }
+      ],
+      [
+        {
+          "x": 3,
+          "y": 2,
+          "z": 0
+        },
+        {
+          "collectable": null,
+          "structure": null,
+          "land": {
+            "expired": false,
+            "timeSinceExpiringState": null,
+            "creationTime": {
+              "type": "oogasalad.model.gameplay.GameTime",
+              "data": "{\"previous\":{\"data\":\"2024-05-01T21:21:14.022050200Z\"},\"accumulate\":0,\"day\":0,\"hour\":0,\"minute\":0}"
+            },
+            "changePropertiesOnNextIteration": false,
+            "id": "cover_1",
+            "nextId": null,
+            "lastUpdateGameTime": {
+              "type": "oogasalad.model.gameplay.GameTime",
+              "data": "{\"previous\":{\"data\":\"2024-05-01T21:51:42.043547100Z\"},\"accumulate\":0,\"day\":5,\"hour\":7,\"minute\":50}"
+            }
+          },
+          "lastUpdatingGameTime": {
+            "type": "oogasalad.model.gameplay.GameTime",
+            "data": "{\"previous\":{\"data\":\"2024-05-01T21:51:42.043547100Z\"},\"accumulate\":0,\"day\":5,\"hour\":7,\"minute\":50}"
+          }
+        }
+      ],
+      [
+        {
+          "x": 7,
+          "y": 6,
+          "z": 0
+        },
+        {
+          "collectable": null,
+          "structure": null,
+          "land": {
+            "expired": false,
+            "timeSinceExpiringState": null,
+            "creationTime": {
+              "type": "oogasalad.model.gameplay.GameTime",
+              "data": "{\"previous\":{\"data\":\"2024-05-01T21:27:46.134662900Z\"},\"accumulate\":0,\"day\":0,\"hour\":0,\"minute\":0}"
+            },
+            "changePropertiesOnNextIteration": false,
+            "id": "cover_3",
+            "nextId": null,
+            "lastUpdateGameTime": {
+              "type": "oogasalad.model.gameplay.GameTime",
+              "data": "{\"previous\":{\"data\":\"2024-05-01T21:51:42.043547100Z\"},\"accumulate\":0,\"day\":5,\"hour\":7,\"minute\":50}"
+            }
+          },
+          "lastUpdatingGameTime": {
+            "type": "oogasalad.model.gameplay.GameTime",
+            "data": "{\"previous\":{\"data\":\"2024-05-01T21:51:42.043547100Z\"},\"accumulate\":0,\"day\":5,\"hour\":7,\"minute\":50}"
+          }
+        }
+      ],
+      [
+        {
+          "x": 2,
+          "y": 0,
+          "z": 0
+        },
+        {
+          "collectable": null,
+          "structure": null,
+          "land": {
+            "expired": false,
+            "timeSinceExpiringState": null,
+            "creationTime": {
+              "type": "oogasalad.model.gameplay.GameTime",
+              "data": "{\"previous\":{\"data\":\"2024-05-01T21:21:10.534503200Z\"},\"accumulate\":0,\"day\":0,\"hour\":0,\"minute\":0}"
+            },
+            "changePropertiesOnNextIteration": false,
+            "id": "cover_1",
+            "nextId": null,
+            "lastUpdateGameTime": {
+              "type": "oogasalad.model.gameplay.GameTime",
+              "data": "{\"previous\":{\"data\":\"2024-05-01T21:51:42.043547100Z\"},\"accumulate\":0,\"day\":5,\"hour\":7,\"minute\":50}"
+            }
+          },
+          "lastUpdatingGameTime": {
+            "type": "oogasalad.model.gameplay.GameTime",
+            "data": "{\"previous\":{\"data\":\"2024-05-01T21:51:42.043547100Z\"},\"accumulate\":0,\"day\":5,\"hour\":7,\"minute\":50}"
+          }
+        }
+      ],
+      [
+        {
+          "x": 6,
+          "y": 4,
+          "z": 0
+        },
+        {
+          "collectable": null,
+          "structure": null,
+          "land": {
+            "expired": false,
+            "timeSinceExpiringState": null,
+            "creationTime": {
+              "type": "oogasalad.model.gameplay.GameTime",
+              "data": "{\"previous\":{\"data\":\"2024-05-01T21:26:37.279721300Z\"},\"accumulate\":0,\"day\":0,\"hour\":0,\"minute\":0}"
+            },
+            "changePropertiesOnNextIteration": false,
+            "id": "cover_2",
+            "nextId": null,
+            "lastUpdateGameTime": {
+              "type": "oogasalad.model.gameplay.GameTime",
+              "data": "{\"previous\":{\"data\":\"2024-05-01T21:51:42.043547100Z\"},\"accumulate\":0,\"day\":5,\"hour\":7,\"minute\":50}"
+            }
+          },
+          "lastUpdatingGameTime": {
+            "type": "oogasalad.model.gameplay.GameTime",
+            "data": "{\"previous\":{\"data\":\"2024-05-01T21:51:42.043547100Z\"},\"accumulate\":0,\"day\":5,\"hour\":7,\"minute\":50}"
+          }
+        }
+      ],
+      [
+        {
+          "x": 5,
+          "y": 2,
+          "z": 0
+        },
+        {
+          "collectable": null,
+          "structure": null,
+          "land": {
+            "expired": false,
+            "timeSinceExpiringState": null,
+            "creationTime": {
+              "type": "oogasalad.model.gameplay.GameTime",
+              "data": "{\"previous\":{\"data\":\"2024-05-01T21:45:25.420019200Z\"},\"accumulate\":0,\"day\":3,\"hour\":6,\"minute\":0}"
+            },
+            "changePropertiesOnNextIteration": false,
+            "id": "empty",
+            "nextId": "empty",
+            "lastUpdateGameTime": {
+              "type": "oogasalad.model.gameplay.GameTime",
+              "data": "{\"previous\":{\"data\":\"2024-05-01T21:51:42.043547100Z\"},\"accumulate\":0,\"day\":5,\"hour\":7,\"minute\":50}"
+            }
+          },
+          "lastUpdatingGameTime": {
+            "type": "oogasalad.model.gameplay.GameTime",
+            "data": "{\"previous\":{\"data\":\"2024-05-01T21:51:42.043547100Z\"},\"accumulate\":0,\"day\":5,\"hour\":7,\"minute\":50}"
+          }
+        }
+      ],
+      [
+        {
+          "x": 4,
+          "y": 0,
+          "z": 0
+        },
+        {
+          "collectable": null,
+          "structure": null,
+          "land": {
+            "expired": false,
+            "timeSinceExpiringState": null,
+            "creationTime": {
+              "type": "oogasalad.model.gameplay.GameTime",
+              "data": "{\"previous\":{\"data\":\"2024-05-01T21:45:26.779701200Z\"},\"accumulate\":0,\"day\":3,\"hour\":6,\"minute\":0}"
+            },
+            "changePropertiesOnNextIteration": false,
+            "id": "empty",
+            "nextId": "empty",
+            "lastUpdateGameTime": {
+              "type": "oogasalad.model.gameplay.GameTime",
+              "data": "{\"previous\":{\"data\":\"2024-05-01T21:51:42.043547100Z\"},\"accumulate\":0,\"day\":5,\"hour\":7,\"minute\":50}"
+            }
+          },
+          "lastUpdatingGameTime": {
+            "type": "oogasalad.model.gameplay.GameTime",
+            "data": "{\"previous\":{\"data\":\"2024-05-01T21:51:42.043547100Z\"},\"accumulate\":0,\"day\":5,\"hour\":7,\"minute\":50}"
+          }
+        }
+      ],
+      [
+        {
+          "x": 8,
+          "y": 4,
+          "z": 0
+        },
+        {
+          "collectable": null,
+          "structure": null,
+          "land": {
+            "expired": false,
+            "timeSinceExpiringState": null,
+            "creationTime": {
+              "type": "oogasalad.model.gameplay.GameTime",
+              "data": "{\"previous\":{\"data\":\"2024-05-01T21:21:47.559755500Z\"},\"accumulate\":0,\"day\":0,\"hour\":0,\"minute\":0}"
+            },
+            "changePropertiesOnNextIteration": false,
+            "id": "cover_1",
+            "nextId": null,
+            "lastUpdateGameTime": {
+              "type": "oogasalad.model.gameplay.GameTime",
+              "data": "{\"previous\":{\"data\":\"2024-05-01T21:51:42.043547100Z\"},\"accumulate\":0,\"day\":5,\"hour\":7,\"minute\":50}"
+            }
+          },
+          "lastUpdatingGameTime": {
+            "type": "oogasalad.model.gameplay.GameTime",
+            "data": "{\"previous\":{\"data\":\"2024-05-01T21:51:42.043547100Z\"},\"accumulate\":0,\"day\":5,\"hour\":7,\"minute\":50}"
+          }
+        }
+      ],
+      [
+        {
+          "x": 7,
+          "y": 2,
+          "z": 0
+        },
+        {
+          "collectable": null,
+          "structure": null,
+          "land": {
+            "expired": false,
+            "timeSinceExpiringState": null,
+            "creationTime": {
+              "type": "oogasalad.model.gameplay.GameTime",
+              "data": "{\"previous\":{\"data\":\"2024-05-01T21:45:13.452438400Z\"},\"accumulate\":0,\"day\":2,\"hour\":6,\"minute\":10}"
+            },
+            "changePropertiesOnNextIteration": false,
+            "id": "one",
+            "nextId": "one",
+            "lastUpdateGameTime": {
+              "type": "oogasalad.model.gameplay.GameTime",
+              "data": "{\"previous\":{\"data\":\"2024-05-01T21:51:42.043547100Z\"},\"accumulate\":0,\"day\":5,\"hour\":7,\"minute\":50}"
+            }
+          },
+          "lastUpdatingGameTime": {
+            "type": "oogasalad.model.gameplay.GameTime",
+            "data": "{\"previous\":{\"data\":\"2024-05-01T21:51:42.043547100Z\"},\"accumulate\":0,\"day\":5,\"hour\":7,\"minute\":50}"
+          }
+        }
+      ],
+      [
+        {
+          "x": 6,
+          "y": 0,
+          "z": 0
+        },
+        {
+          "collectable": null,
+          "structure": null,
+          "land": {
+            "expired": false,
+            "timeSinceExpiringState": null,
+            "creationTime": {
+              "type": "oogasalad.model.gameplay.GameTime",
+              "data": "{\"previous\":{\"data\":\"2024-05-01T21:45:15.707637900Z\"},\"accumulate\":0,\"day\":2,\"hour\":6,\"minute\":10}"
+            },
+            "changePropertiesOnNextIteration": false,
+            "id": "one",
+            "nextId": "one",
+            "lastUpdateGameTime": {
+              "type": "oogasalad.model.gameplay.GameTime",
+              "data": "{\"previous\":{\"data\":\"2024-05-01T21:51:42.043547100Z\"},\"accumulate\":0,\"day\":5,\"hour\":7,\"minute\":50}"
+            }
+          },
+          "lastUpdatingGameTime": {
+            "type": "oogasalad.model.gameplay.GameTime",
+            "data": "{\"previous\":{\"data\":\"2024-05-01T21:51:42.043547100Z\"},\"accumulate\":0,\"day\":5,\"hour\":7,\"minute\":50}"
+          }
+        }
+      ],
+      [
+        {
+          "x": 8,
+          "y": 0,
+          "z": 0
+        },
+        {
+          "collectable": null,
+          "structure": null,
+          "land": {
+            "expired": false,
+            "timeSinceExpiringState": null,
+            "creationTime": {
+              "type": "oogasalad.model.gameplay.GameTime",
+              "data": "{\"previous\":{\"data\":\"2024-05-01T21:26:31.042635800Z\"},\"accumulate\":0,\"day\":0,\"hour\":0,\"minute\":0}"
+            },
+            "changePropertiesOnNextIteration": false,
+            "id": "cover_2",
+            "nextId": null,
+            "lastUpdateGameTime": {
+              "type": "oogasalad.model.gameplay.GameTime",
+              "data": "{\"previous\":{\"data\":\"2024-05-01T21:51:42.043547100Z\"},\"accumulate\":0,\"day\":5,\"hour\":7,\"minute\":50}"
+            }
+          },
+          "lastUpdatingGameTime": {
+            "type": "oogasalad.model.gameplay.GameTime",
+            "data": "{\"previous\":{\"data\":\"2024-05-01T21:51:42.043547100Z\"},\"accumulate\":0,\"day\":5,\"hour\":7,\"minute\":50}"
+          }
+        }
+      ],
+      [
+        {
+          "x": 1,
+          "y": 7,
+          "z": 0
+        },
+        {
+          "collectable": null,
+          "structure": null,
+          "land": {
+            "expired": false,
+            "timeSinceExpiringState": null,
+            "creationTime": {
+              "type": "oogasalad.model.gameplay.GameTime",
+              "data": "{\"previous\":{\"data\":\"2024-05-01T21:45:45.515522Z\"},\"accumulate\":0,\"day\":4,\"hour\":6,\"minute\":10}"
+            },
+            "changePropertiesOnNextIteration": false,
+            "id": "two",
+            "nextId": "two",
+            "lastUpdateGameTime": {
+              "type": "oogasalad.model.gameplay.GameTime",
+              "data": "{\"previous\":{\"data\":\"2024-05-01T21:51:42.043547100Z\"},\"accumulate\":0,\"day\":5,\"hour\":7,\"minute\":50}"
+            }
+          },
+          "lastUpdatingGameTime": {
+            "type": "oogasalad.model.gameplay.GameTime",
+            "data": "{\"previous\":{\"data\":\"2024-05-01T21:51:42.043547100Z\"},\"accumulate\":0,\"day\":5,\"hour\":7,\"minute\":50}"
+          }
+        }
+      ],
+      [
+        {
+          "x": 0,
+          "y": 5,
+          "z": 0
+        },
+        {
+          "collectable": null,
+          "structure": null,
+          "land": {
+            "expired": false,
+            "timeSinceExpiringState": null,
+            "creationTime": {
+              "type": "oogasalad.model.gameplay.GameTime",
+              "data": "{\"previous\":{\"data\":\"2024-05-01T21:44:58.588081300Z\"},\"accumulate\":0,\"day\":1,\"hour\":8,\"minute\":10}"
+            },
+            "changePropertiesOnNextIteration": false,
+            "id": "empty",
+            "nextId": "empty",
+            "lastUpdateGameTime": {
+              "type": "oogasalad.model.gameplay.GameTime",
+              "data": "{\"previous\":{\"data\":\"2024-05-01T21:51:42.043547100Z\"},\"accumulate\":0,\"day\":5,\"hour\":7,\"minute\":50}"
+            }
+          },
+          "lastUpdatingGameTime": {
+            "type": "oogasalad.model.gameplay.GameTime",
+            "data": "{\"previous\":{\"data\":\"2024-05-01T21:51:42.043547100Z\"},\"accumulate\":0,\"day\":5,\"hour\":7,\"minute\":50}"
+          }
+        }
+      ],
+      [
+        {
+          "x": 3,
+          "y": 7,
+          "z": 0
+        },
+        {
+          "collectable": null,
+          "structure": null,
+          "land": {
+            "expired": false,
+            "timeSinceExpiringState": null,
+            "creationTime": {
+              "type": "oogasalad.model.gameplay.GameTime",
+              "data": "{\"previous\":{\"data\":\"2024-05-01T21:28:52.845259Z\"},\"accumulate\":0,\"day\":0,\"hour\":0,\"minute\":0}"
+            },
+            "changePropertiesOnNextIteration": false,
+            "id": "cover_4",
+            "nextId": null,
+            "lastUpdateGameTime": {
+              "type": "oogasalad.model.gameplay.GameTime",
+              "data": "{\"previous\":{\"data\":\"2024-05-01T21:51:42.043547100Z\"},\"accumulate\":0,\"day\":5,\"hour\":7,\"minute\":50}"
+            }
+          },
+          "lastUpdatingGameTime": {
+            "type": "oogasalad.model.gameplay.GameTime",
+            "data": "{\"previous\":{\"data\":\"2024-05-01T21:51:42.043547100Z\"},\"accumulate\":0,\"day\":5,\"hour\":7,\"minute\":50}"
+          }
+        }
+      ],
+      [
+        {
+          "x": 2,
+          "y": 5,
+          "z": 0
+        },
+        {
+          "collectable": null,
+          "structure": null,
+          "land": {
+            "expired": false,
+            "timeSinceExpiringState": null,
+            "creationTime": {
+              "type": "oogasalad.model.gameplay.GameTime",
+              "data": "{\"previous\":{\"data\":\"2024-05-01T21:48:20.971853Z\"},\"accumulate\":0,\"day\":5,\"hour\":7,\"minute\":20}"
+            },
+            "changePropertiesOnNextIteration": false,
+            "id": "one",
+            "nextId": "one",
+            "lastUpdateGameTime": {
+              "type": "oogasalad.model.gameplay.GameTime",
+              "data": "{\"previous\":{\"data\":\"2024-05-01T21:51:42.043547100Z\"},\"accumulate\":0,\"day\":5,\"hour\":7,\"minute\":50}"
+            }
+          },
+          "lastUpdatingGameTime": {
+            "type": "oogasalad.model.gameplay.GameTime",
+            "data": "{\"previous\":{\"data\":\"2024-05-01T21:51:42.043547100Z\"},\"accumulate\":0,\"day\":5,\"hour\":7,\"minute\":50}"
+          }
+        }
+      ],
+      [
+        {
+          "x": 1,
+          "y": 3,
+          "z": 0
+        },
+        {
+          "collectable": null,
+          "structure": null,
+          "land": {
+            "expired": false,
+            "timeSinceExpiringState": null,
+            "creationTime": {
+              "type": "oogasalad.model.gameplay.GameTime",
+              "data": "{\"previous\":{\"data\":\"2024-05-01T21:45:04.411600300Z\"},\"accumulate\":0,\"day\":1,\"hour\":8,\"minute\":10}"
+            },
+            "changePropertiesOnNextIteration": false,
+            "id": "empty",
+            "nextId": "empty",
+            "lastUpdateGameTime": {
+              "type": "oogasalad.model.gameplay.GameTime",
+              "data": "{\"previous\":{\"data\":\"2024-05-01T21:51:42.043547100Z\"},\"accumulate\":0,\"day\":5,\"hour\":7,\"minute\":50}"
+            }
+          },
+          "lastUpdatingGameTime": {
+            "type": "oogasalad.model.gameplay.GameTime",
+            "data": "{\"previous\":{\"data\":\"2024-05-01T21:51:42.043547100Z\"},\"accumulate\":0,\"day\":5,\"hour\":7,\"minute\":50}"
+          }
+        }
+      ],
+      [
+        {
+          "x": 5,
+          "y": 7,
+          "z": 0
+        },
+        {
+          "collectable": null,
+          "structure": null,
+          "land": {
+            "expired": false,
+            "timeSinceExpiringState": null,
+            "creationTime": {
+              "type": "oogasalad.model.gameplay.GameTime",
+              "data": "{\"previous\":{\"data\":\"2024-05-01T21:27:45.305700600Z\"},\"accumulate\":0,\"day\":0,\"hour\":0,\"minute\":0}"
+            },
+            "changePropertiesOnNextIteration": false,
+            "id": "cover_3",
+            "nextId": null,
+            "lastUpdateGameTime": {
+              "type": "oogasalad.model.gameplay.GameTime",
+              "data": "{\"previous\":{\"data\":\"2024-05-01T21:51:42.043547100Z\"},\"accumulate\":0,\"day\":5,\"hour\":7,\"minute\":50}"
+            }
+          },
+          "lastUpdatingGameTime": {
+            "type": "oogasalad.model.gameplay.GameTime",
+            "data": "{\"previous\":{\"data\":\"2024-05-01T21:51:42.043547100Z\"},\"accumulate\":0,\"day\":5,\"hour\":7,\"minute\":50}"
+          }
+        }
+      ],
+      [
+        {
+          "x": 0,
+          "y": 1,
+          "z": 0
+        },
+        {
+          "collectable": null,
+          "structure": null,
+          "land": {
+            "expired": false,
+            "timeSinceExpiringState": null,
+            "creationTime": {
+              "type": "oogasalad.model.gameplay.GameTime",
+              "data": "{\"previous\":{\"data\":\"2024-05-01T21:44:55.675519600Z\"},\"accumulate\":0,\"day\":1,\"hour\":8,\"minute\":0}"
+            },
+            "changePropertiesOnNextIteration": false,
+            "id": "empty",
+            "nextId": "empty",
+            "lastUpdateGameTime": {
+              "type": "oogasalad.model.gameplay.GameTime",
+              "data": "{\"previous\":{\"data\":\"2024-05-01T21:51:42.043547100Z\"},\"accumulate\":0,\"day\":5,\"hour\":7,\"minute\":50}"
+            }
+          },
+          "lastUpdatingGameTime": {
+            "type": "oogasalad.model.gameplay.GameTime",
+            "data": "{\"previous\":{\"data\":\"2024-05-01T21:51:42.043547100Z\"},\"accumulate\":0,\"day\":5,\"hour\":7,\"minute\":50}"
+          }
+        }
+      ],
+      [
+        {
+          "x": 4,
+          "y": 5,
+          "z": 0
+        },
+        {
+          "collectable": null,
+          "structure": null,
+          "land": {
+            "expired": false,
+            "timeSinceExpiringState": null,
+            "creationTime": {
+              "type": "oogasalad.model.gameplay.GameTime",
+              "data": "{\"previous\":{\"data\":\"2024-05-01T21:22:11.346016800Z\"},\"accumulate\":0,\"day\":0,\"hour\":0,\"minute\":0}"
+            },
+            "changePropertiesOnNextIteration": false,
+            "id": "cover_1",
+            "nextId": null,
+            "lastUpdateGameTime": {
+              "type": "oogasalad.model.gameplay.GameTime",
+              "data": "{\"previous\":{\"data\":\"2024-05-01T21:51:42.043547100Z\"},\"accumulate\":0,\"day\":5,\"hour\":7,\"minute\":50}"
+            }
+          },
+          "lastUpdatingGameTime": {
+            "type": "oogasalad.model.gameplay.GameTime",
+            "data": "{\"previous\":{\"data\":\"2024-05-01T21:51:42.043547100Z\"},\"accumulate\":0,\"day\":5,\"hour\":7,\"minute\":50}"
+          }
+        }
+      ],
+      [
+        {
+          "x": 3,
+          "y": 3,
+          "z": 0
+        },
+        {
+          "collectable": null,
+          "structure": null,
+          "land": {
+            "expired": false,
+            "timeSinceExpiringState": null,
+            "creationTime": {
+              "type": "oogasalad.model.gameplay.GameTime",
+              "data": "{\"previous\":{\"data\":\"2024-05-01T21:45:05.915776300Z\"},\"accumulate\":0,\"day\":1,\"hour\":8,\"minute\":20}"
+            },
+            "changePropertiesOnNextIteration": false,
+            "id": "empty",
+            "nextId": "empty",
+            "lastUpdateGameTime": {
+              "type": "oogasalad.model.gameplay.GameTime",
+              "data": "{\"previous\":{\"data\":\"2024-05-01T21:51:42.043547100Z\"},\"accumulate\":0,\"day\":5,\"hour\":7,\"minute\":50}"
+            }
+          },
+          "lastUpdatingGameTime": {
+            "type": "oogasalad.model.gameplay.GameTime",
+            "data": "{\"previous\":{\"data\":\"2024-05-01T21:51:42.043547100Z\"},\"accumulate\":0,\"day\":5,\"hour\":7,\"minute\":50}"
+          }
+        }
+      ],
+      [
+        {
+          "x": 7,
+          "y": 7,
+          "z": 0
+        },
+        {
+          "collectable": null,
+          "structure": null,
+          "land": {
+            "expired": false,
+            "timeSinceExpiringState": null,
+            "creationTime": {
+              "type": "oogasalad.model.gameplay.GameTime",
+              "data": "{\"previous\":{\"data\":\"2024-05-01T21:21:44.160653300Z\"},\"accumulate\":0,\"day\":0,\"hour\":0,\"minute\":0}"
+            },
+            "changePropertiesOnNextIteration": false,
+            "id": "cover_1",
+            "nextId": null,
+            "lastUpdateGameTime": {
+              "type": "oogasalad.model.gameplay.GameTime",
+              "data": "{\"previous\":{\"data\":\"2024-05-01T21:51:42.043547100Z\"},\"accumulate\":0,\"day\":5,\"hour\":7,\"minute\":50}"
+            }
+          },
+          "lastUpdatingGameTime": {
+            "type": "oogasalad.model.gameplay.GameTime",
+            "data": "{\"previous\":{\"data\":\"2024-05-01T21:51:42.043547100Z\"},\"accumulate\":0,\"day\":5,\"hour\":7,\"minute\":50}"
+          }
+        }
+      ],
+      [
+        {
+          "x": 2,
+          "y": 1,
+          "z": 0
+        },
+        {
+          "collectable": null,
+          "structure": null,
+          "land": {
+            "expired": false,
+            "timeSinceExpiringState": null,
+            "creationTime": {
+              "type": "oogasalad.model.gameplay.GameTime",
+              "data": "{\"previous\":{\"data\":\"2024-05-01T21:31:02.391030400Z\"},\"accumulate\":0,\"day\":0,\"hour\":0,\"minute\":0}"
+            },
+            "changePropertiesOnNextIteration": false,
+            "id": "cover_bomb",
+            "nextId": null,
+            "lastUpdateGameTime": {
+              "type": "oogasalad.model.gameplay.GameTime",
+              "data": "{\"previous\":{\"data\":\"2024-05-01T21:51:42.043547100Z\"},\"accumulate\":0,\"day\":5,\"hour\":7,\"minute\":50}"
+            }
+          },
+          "lastUpdatingGameTime": {
+            "type": "oogasalad.model.gameplay.GameTime",
+            "data": "{\"previous\":{\"data\":\"2024-05-01T21:51:42.043547100Z\"},\"accumulate\":0,\"day\":5,\"hour\":7,\"minute\":50}"
+          }
+        }
+      ],
+      [
+        {
+          "x": 6,
+          "y": 5,
+          "z": 0
+        },
+        {
+          "collectable": null,
+          "structure": null,
+          "land": {
+            "expired": false,
+            "timeSinceExpiringState": null,
+            "creationTime": {
+              "type": "oogasalad.model.gameplay.GameTime",
+              "data": "{\"previous\":{\"data\":\"2024-05-01T21:31:07.663896200Z\"},\"accumulate\":0,\"day\":0,\"hour\":0,\"minute\":0}"
+            },
+            "changePropertiesOnNextIteration": false,
+            "id": "cover_bomb",
+            "nextId": null,
+            "lastUpdateGameTime": {
+              "type": "oogasalad.model.gameplay.GameTime",
+              "data": "{\"previous\":{\"data\":\"2024-05-01T21:51:42.043547100Z\"},\"accumulate\":0,\"day\":5,\"hour\":7,\"minute\":50}"
+            }
+          },
+          "lastUpdatingGameTime": {
+            "type": "oogasalad.model.gameplay.GameTime",
+            "data": "{\"previous\":{\"data\":\"2024-05-01T21:51:42.043547100Z\"},\"accumulate\":0,\"day\":5,\"hour\":7,\"minute\":50}"
+          }
+        }
+      ],
+      [
+        {
+          "x": 5,
+          "y": 3,
+          "z": 0
+        },
+        {
+          "collectable": null,
+          "structure": null,
+          "land": {
+            "expired": false,
+            "timeSinceExpiringState": null,
+            "creationTime": {
+              "type": "oogasalad.model.gameplay.GameTime",
+              "data": "{\"previous\":{\"data\":\"2024-05-01T21:45:09.244256400Z\"},\"accumulate\":0,\"day\":2,\"hour\":6,\"minute\":0}"
+            },
+            "changePropertiesOnNextIteration": false,
+            "id": "empty",
+            "nextId": "empty",
+            "lastUpdateGameTime": {
+              "type": "oogasalad.model.gameplay.GameTime",
+              "data": "{\"previous\":{\"data\":\"2024-05-01T21:51:42.043547100Z\"},\"accumulate\":0,\"day\":5,\"hour\":7,\"minute\":50}"
+            }
+          },
+          "lastUpdatingGameTime": {
+            "type": "oogasalad.model.gameplay.GameTime",
+            "data": "{\"previous\":{\"data\":\"2024-05-01T21:51:42.043547100Z\"},\"accumulate\":0,\"day\":5,\"hour\":7,\"minute\":50}"
+          }
+        }
+      ],
+      [
+        {
+          "x": 4,
+          "y": 1,
+          "z": 0
+        },
+        {
+          "collectable": null,
+          "structure": null,
+          "land": {
+            "expired": false,
+            "timeSinceExpiringState": null,
+            "creationTime": {
+              "type": "oogasalad.model.gameplay.GameTime",
+              "data": "{\"previous\":{\"data\":\"2024-05-01T21:45:27.243618400Z\"},\"accumulate\":0,\"day\":3,\"hour\":6,\"minute\":10}"
+            },
+            "changePropertiesOnNextIteration": false,
+            "id": "empty",
+            "nextId": "empty",
+            "lastUpdateGameTime": {
+              "type": "oogasalad.model.gameplay.GameTime",
+              "data": "{\"previous\":{\"data\":\"2024-05-01T21:51:42.043547100Z\"},\"accumulate\":0,\"day\":5,\"hour\":7,\"minute\":50}"
+            }
+          },
+          "lastUpdatingGameTime": {
+            "type": "oogasalad.model.gameplay.GameTime",
+            "data": "{\"previous\":{\"data\":\"2024-05-01T21:51:42.043547100Z\"},\"accumulate\":0,\"day\":5,\"hour\":7,\"minute\":50}"
+          }
+        }
+      ],
+      [
+        {
+          "x": 8,
+          "y": 5,
+          "z": 0
+        },
+        {
+          "collectable": null,
+          "structure": null,
+          "land": {
+            "expired": false,
+            "timeSinceExpiringState": null,
+            "creationTime": {
+              "type": "oogasalad.model.gameplay.GameTime",
+              "data": "{\"previous\":{\"data\":\"2024-05-01T21:21:44.884570100Z\"},\"accumulate\":0,\"day\":0,\"hour\":0,\"minute\":0}"
+            },
+            "changePropertiesOnNextIteration": false,
+            "id": "cover_1",
+            "nextId": null,
+            "lastUpdateGameTime": {
+              "type": "oogasalad.model.gameplay.GameTime",
+              "data": "{\"previous\":{\"data\":\"2024-05-01T21:51:42.043547100Z\"},\"accumulate\":0,\"day\":5,\"hour\":7,\"minute\":50}"
+            }
+          },
+          "lastUpdatingGameTime": {
+            "type": "oogasalad.model.gameplay.GameTime",
+            "data": "{\"previous\":{\"data\":\"2024-05-01T21:51:42.043547100Z\"},\"accumulate\":0,\"day\":5,\"hour\":7,\"minute\":50}"
+          }
+        }
+      ],
+      [
+        {
+          "x": 7,
+          "y": 3,
+          "z": 0
+        },
+        {
+          "collectable": null,
+          "structure": null,
+          "land": {
+            "expired": false,
+            "timeSinceExpiringState": null,
+            "creationTime": {
+              "type": "oogasalad.model.gameplay.GameTime",
+              "data": "{\"previous\":{\"data\":\"2024-05-01T21:45:10.652183400Z\"},\"accumulate\":0,\"day\":2,\"hour\":6,\"minute\":0}"
+            },
+            "changePropertiesOnNextIteration": false,
+            "id": "empty",
+            "nextId": "empty",
+            "lastUpdateGameTime": {
+              "type": "oogasalad.model.gameplay.GameTime",
+              "data": "{\"previous\":{\"data\":\"2024-05-01T21:51:42.043547100Z\"},\"accumulate\":0,\"day\":5,\"hour\":7,\"minute\":50}"
+            }
+          },
+          "lastUpdatingGameTime": {
+            "type": "oogasalad.model.gameplay.GameTime",
+            "data": "{\"previous\":{\"data\":\"2024-05-01T21:51:42.043547100Z\"},\"accumulate\":0,\"day\":5,\"hour\":7,\"minute\":50}"
+          }
+        }
+      ],
+      [
+        {
+          "x": 6,
+          "y": 1,
+          "z": 0
+        },
+        {
+          "collectable": null,
+          "structure": null,
+          "land": {
+            "expired": false,
+            "timeSinceExpiringState": null,
+            "creationTime": {
+              "type": "oogasalad.model.gameplay.GameTime",
+              "data": "{\"previous\":{\"data\":\"2024-05-01T21:45:14.780174900Z\"},\"accumulate\":0,\"day\":2,\"hour\":6,\"minute\":10}"
+            },
+            "changePropertiesOnNextIteration": false,
+            "id": "one",
+            "nextId": "one",
+            "lastUpdateGameTime": {
+              "type": "oogasalad.model.gameplay.GameTime",
+              "data": "{\"previous\":{\"data\":\"2024-05-01T21:51:42.043547100Z\"},\"accumulate\":0,\"day\":5,\"hour\":7,\"minute\":50}"
+            }
+          },
+          "lastUpdatingGameTime": {
+            "type": "oogasalad.model.gameplay.GameTime",
+            "data": "{\"previous\":{\"data\":\"2024-05-01T21:51:42.043547100Z\"},\"accumulate\":0,\"day\":5,\"hour\":7,\"minute\":50}"
+          }
+        }
+      ],
+      [
+        {
+          "x": 8,
+          "y": 1,
+          "z": 0
+        },
+        {
+          "collectable": null,
+          "structure": null,
+          "land": {
+            "expired": false,
+            "timeSinceExpiringState": null,
+            "creationTime": {
+              "type": "oogasalad.model.gameplay.GameTime",
+              "data": "{\"previous\":{\"data\":\"2024-05-01T21:31:03.922900Z\"},\"accumulate\":0,\"day\":0,\"hour\":0,\"minute\":0}"
+            },
+            "changePropertiesOnNextIteration": false,
+            "id": "cover_bomb",
+            "nextId": null,
+            "lastUpdateGameTime": {
+              "type": "oogasalad.model.gameplay.GameTime",
+              "data": "{\"previous\":{\"data\":\"2024-05-01T21:51:42.043547100Z\"},\"accumulate\":0,\"day\":5,\"hour\":7,\"minute\":50}"
+            }
+          },
+          "lastUpdatingGameTime": {
+            "type": "oogasalad.model.gameplay.GameTime",
+            "data": "{\"previous\":{\"data\":\"2024-05-01T21:51:42.043547100Z\"},\"accumulate\":0,\"day\":5,\"hour\":7,\"minute\":50}"
+          }
+        }
+      ],
+      [
+        {
+          "x": 1,
+          "y": 8,
+          "z": 0
+        },
+        {
+          "collectable": null,
+          "structure": null,
+          "land": {
+            "expired": false,
+            "timeSinceExpiringState": null,
+            "creationTime": {
+              "type": "oogasalad.model.gameplay.GameTime",
+              "data": "{\"previous\":{\"data\":\"2024-05-01T21:45:46.219712600Z\"},\"accumulate\":0,\"day\":4,\"hour\":6,\"minute\":10}"
+            },
+            "changePropertiesOnNextIteration": false,
+            "id": "one",
+            "nextId": "one",
+            "lastUpdateGameTime": {
+              "type": "oogasalad.model.gameplay.GameTime",
+              "data": "{\"previous\":{\"data\":\"2024-05-01T21:51:42.043547100Z\"},\"accumulate\":0,\"day\":5,\"hour\":7,\"minute\":50}"
+            }
+          },
+          "lastUpdatingGameTime": {
+            "type": "oogasalad.model.gameplay.GameTime",
+            "data": "{\"previous\":{\"data\":\"2024-05-01T21:51:42.043547100Z\"},\"accumulate\":0,\"day\":5,\"hour\":7,\"minute\":50}"
+          }
+        }
+      ],
+      [
+        {
+          "x": 0,
+          "y": 6,
+          "z": 0
+        },
+        {
+          "collectable": null,
+          "structure": null,
+          "land": {
+            "expired": false,
+            "timeSinceExpiringState": null,
+            "creationTime": {
+              "type": "oogasalad.model.gameplay.GameTime",
+              "data": "{\"previous\":{\"data\":\"2024-05-01T21:44:59.084350100Z\"},\"accumulate\":0,\"day\":1,\"hour\":8,\"minute\":10}"
+            },
+            "changePropertiesOnNextIteration": false,
+            "id": "empty",
+            "nextId": "empty",
+            "lastUpdateGameTime": {
+              "type": "oogasalad.model.gameplay.GameTime",
+              "data": "{\"previous\":{\"data\":\"2024-05-01T21:51:42.043547100Z\"},\"accumulate\":0,\"day\":5,\"hour\":7,\"minute\":50}"
+            }
+          },
+          "lastUpdatingGameTime": {
+            "type": "oogasalad.model.gameplay.GameTime",
+            "data": "{\"previous\":{\"data\":\"2024-05-01T21:51:42.043547100Z\"},\"accumulate\":0,\"day\":5,\"hour\":7,\"minute\":50}"
+          }
+        }
+      ],
+      [
+        {
+          "x": 3,
+          "y": 8,
+          "z": 0
+        },
+        {
+          "collectable": null,
+          "structure": null,
+          "land": {
+            "expired": false,
+            "timeSinceExpiringState": null,
+            "creationTime": {
+              "type": "oogasalad.model.gameplay.GameTime",
+              "data": "{\"previous\":{\"data\":\"2024-05-01T21:26:47.547527400Z\"},\"accumulate\":0,\"day\":0,\"hour\":0,\"minute\":0}"
+            },
+            "changePropertiesOnNextIteration": false,
+            "id": "cover_2",
+            "nextId": null,
+            "lastUpdateGameTime": {
+              "type": "oogasalad.model.gameplay.GameTime",
+              "data": "{\"previous\":{\"data\":\"2024-05-01T21:51:42.043547100Z\"},\"accumulate\":0,\"day\":5,\"hour\":7,\"minute\":50}"
+            }
+          },
+          "lastUpdatingGameTime": {
+            "type": "oogasalad.model.gameplay.GameTime",
+            "data": "{\"previous\":{\"data\":\"2024-05-01T21:51:42.043547100Z\"},\"accumulate\":0,\"day\":5,\"hour\":7,\"minute\":50}"
+          }
+        }
+      ],
+      [
+        {
+          "x": 2,
+          "y": 6,
+          "z": 0
+        },
+        {
+          "collectable": null,
+          "structure": null,
+          "land": {
+            "expired": false,
+            "timeSinceExpiringState": null,
+            "creationTime": {
+              "type": "oogasalad.model.gameplay.GameTime",
+              "data": "{\"previous\":{\"data\":\"2024-05-01T21:31:10.929387100Z\"},\"accumulate\":0,\"day\":0,\"hour\":0,\"minute\":0}"
+            },
+            "changePropertiesOnNextIteration": false,
+            "id": "cover_bomb",
+            "nextId": null,
+            "lastUpdateGameTime": {
+              "type": "oogasalad.model.gameplay.GameTime",
+              "data": "{\"previous\":{\"data\":\"2024-05-01T21:51:42.043547100Z\"},\"accumulate\":0,\"day\":5,\"hour\":7,\"minute\":50}"
+            }
+          },
+          "lastUpdatingGameTime": {
+            "type": "oogasalad.model.gameplay.GameTime",
+            "data": "{\"previous\":{\"data\":\"2024-05-01T21:51:42.043547100Z\"},\"accumulate\":0,\"day\":5,\"hour\":7,\"minute\":50}"
+          }
+        }
+      ],
+      [
+        {
+          "x": 1,
+          "y": 4,
+          "z": 0
+        },
+        {
+          "collectable": null,
+          "structure": null,
+          "land": {
+            "expired": false,
+            "timeSinceExpiringState": null,
+            "creationTime": {
+              "type": "oogasalad.model.gameplay.GameTime",
+              "data": "{\"previous\":{\"data\":\"2024-05-01T21:45:40.444346500Z\"},\"accumulate\":0,\"day\":4,\"hour\":6,\"minute\":0}"
+            },
+            "changePropertiesOnNextIteration": false,
+            "id": "empty",
+            "nextId": "empty",
+            "lastUpdateGameTime": {
+              "type": "oogasalad.model.gameplay.GameTime",
+              "data": "{\"previous\":{\"data\":\"2024-05-01T21:51:42.043547100Z\"},\"accumulate\":0,\"day\":5,\"hour\":7,\"minute\":50}"
+            }
+          },
+          "lastUpdatingGameTime": {
+            "type": "oogasalad.model.gameplay.GameTime",
+            "data": "{\"previous\":{\"data\":\"2024-05-01T21:51:42.043547100Z\"},\"accumulate\":0,\"day\":5,\"hour\":7,\"minute\":50}"
+          }
+        }
+      ],
+      [
+        {
+          "x": 5,
+          "y": 8,
+          "z": 0
+        },
+        {
+          "collectable": null,
+          "structure": null,
+          "land": {
+            "expired": false,
+            "timeSinceExpiringState": null,
+            "creationTime": {
+              "type": "oogasalad.model.gameplay.GameTime",
+              "data": "{\"previous\":{\"data\":\"2024-05-01T21:21:39.474363800Z\"},\"accumulate\":0,\"day\":0,\"hour\":0,\"minute\":0}"
+            },
+            "changePropertiesOnNextIteration": false,
+            "id": "cover_1",
+            "nextId": null,
+            "lastUpdateGameTime": {
+              "type": "oogasalad.model.gameplay.GameTime",
+              "data": "{\"previous\":{\"data\":\"2024-05-01T21:51:42.043547100Z\"},\"accumulate\":0,\"day\":5,\"hour\":7,\"minute\":50}"
+            }
+          },
+          "lastUpdatingGameTime": {
+            "type": "oogasalad.model.gameplay.GameTime",
+            "data": "{\"previous\":{\"data\":\"2024-05-01T21:51:42.043547100Z\"},\"accumulate\":0,\"day\":5,\"hour\":7,\"minute\":50}"
+          }
+        }
+      ],
+      [
+        {
+          "x": 0,
+          "y": 2,
+          "z": 0
+        },
+        {
+          "collectable": null,
+          "structure": null,
+          "land": {
+            "expired": false,
+            "timeSinceExpiringState": null,
+            "creationTime": {
+              "type": "oogasalad.model.gameplay.GameTime",
+              "data": "{\"previous\":{\"data\":\"2024-05-01T21:44:57.275598900Z\"},\"accumulate\":0,\"day\":1,\"hour\":8,\"minute\":0}"
+            },
+            "changePropertiesOnNextIteration": false,
+            "id": "empty",
+            "nextId": "empty",
+            "lastUpdateGameTime": {
+              "type": "oogasalad.model.gameplay.GameTime",
+              "data": "{\"previous\":{\"data\":\"2024-05-01T21:51:42.043547100Z\"},\"accumulate\":0,\"day\":5,\"hour\":7,\"minute\":50}"
+            }
+          },
+          "lastUpdatingGameTime": {
+            "type": "oogasalad.model.gameplay.GameTime",
+            "data": "{\"previous\":{\"data\":\"2024-05-01T21:51:42.043547100Z\"},\"accumulate\":0,\"day\":5,\"hour\":7,\"minute\":50}"
+          }
+        }
+      ],
+      [
+        {
+          "x": 4,
+          "y": 6,
+          "z": 0
+        },
+        {
+          "collectable": null,
+          "structure": null,
+          "land": {
+            "expired": false,
+            "timeSinceExpiringState": null,
+            "creationTime": {
+              "type": "oogasalad.model.gameplay.GameTime",
+              "data": "{\"previous\":{\"data\":\"2024-05-01T21:31:13.830309700Z\"},\"accumulate\":0,\"day\":0,\"hour\":0,\"minute\":0}"
+            },
+            "changePropertiesOnNextIteration": false,
+            "id": "cover_bomb",
+            "nextId": null,
+            "lastUpdateGameTime": {
+              "type": "oogasalad.model.gameplay.GameTime",
+              "data": "{\"previous\":{\"data\":\"2024-05-01T21:51:42.043547100Z\"},\"accumulate\":0,\"day\":5,\"hour\":7,\"minute\":50}"
+            }
+          },
+          "lastUpdatingGameTime": {
+            "type": "oogasalad.model.gameplay.GameTime",
+            "data": "{\"previous\":{\"data\":\"2024-05-01T21:51:42.043547100Z\"},\"accumulate\":0,\"day\":5,\"hour\":7,\"minute\":50}"
+          }
+        }
+      ],
+      [
+        {
+          "x": 3,
+          "y": 4,
+          "z": 0
+        },
+        {
+          "collectable": null,
+          "structure": null,
+          "land": {
+            "expired": false,
+            "timeSinceExpiringState": null,
+            "creationTime": {
+              "type": "oogasalad.model.gameplay.GameTime",
+              "data": "{\"previous\":{\"data\":\"2024-05-01T21:45:49.051717Z\"},\"accumulate\":0,\"day\":4,\"hour\":6,\"minute\":20}"
+            },
+            "changePropertiesOnNextIteration": false,
+            "id": "empty",
+            "nextId": "empty",
+            "lastUpdateGameTime": {
+              "type": "oogasalad.model.gameplay.GameTime",
+              "data": "{\"previous\":{\"data\":\"2024-05-01T21:51:42.043547100Z\"},\"accumulate\":0,\"day\":5,\"hour\":7,\"minute\":50}"
+            }
+          },
+          "lastUpdatingGameTime": {
+            "type": "oogasalad.model.gameplay.GameTime",
+            "data": "{\"previous\":{\"data\":\"2024-05-01T21:51:42.043547100Z\"},\"accumulate\":0,\"day\":5,\"hour\":7,\"minute\":50}"
+          }
+        }
+      ],
+      [
+        {
+          "x": 7,
+          "y": 8,
+          "z": 0
+        },
+        {
+          "collectable": null,
+          "structure": null,
+          "land": {
+            "expired": false,
+            "timeSinceExpiringState": null,
+            "creationTime": {
+              "type": "oogasalad.model.gameplay.GameTime",
+              "data": "{\"previous\":{\"data\":\"2024-05-01T21:45:55.612324300Z\"},\"accumulate\":0,\"day\":4,\"hour\":6,\"minute\":20}"
+            },
+            "changePropertiesOnNextIteration": false,
+            "id": "empty",
+            "nextId": "empty",
+            "lastUpdateGameTime": {
+              "type": "oogasalad.model.gameplay.GameTime",
+              "data": "{\"previous\":{\"data\":\"2024-05-01T21:51:42.043547100Z\"},\"accumulate\":0,\"day\":5,\"hour\":7,\"minute\":50}"
+            }
+          },
+          "lastUpdatingGameTime": {
+            "type": "oogasalad.model.gameplay.GameTime",
+            "data": "{\"previous\":{\"data\":\"2024-05-01T21:51:42.043547100Z\"},\"accumulate\":0,\"day\":5,\"hour\":7,\"minute\":50}"
+          }
+        }
+      ],
+      [
+        {
+          "x": 2,
+          "y": 2,
+          "z": 0
+        },
+        {
+          "collectable": null,
+          "structure": null,
+          "land": {
+            "expired": false,
+            "timeSinceExpiringState": null,
+            "creationTime": {
+              "type": "oogasalad.model.gameplay.GameTime",
+              "data": "{\"previous\":{\"data\":\"2024-05-01T21:45:33.084103300Z\"},\"accumulate\":0,\"day\":3,\"hour\":6,\"minute\":10}"
+            },
+            "changePropertiesOnNextIteration": false,
+            "id": "one",
+            "nextId": "one",
+            "lastUpdateGameTime": {
+              "type": "oogasalad.model.gameplay.GameTime",
+              "data": "{\"previous\":{\"data\":\"2024-05-01T21:51:42.043547100Z\"},\"accumulate\":0,\"day\":5,\"hour\":7,\"minute\":50}"
+            }
+          },
+          "lastUpdatingGameTime": {
+            "type": "oogasalad.model.gameplay.GameTime",
+            "data": "{\"previous\":{\"data\":\"2024-05-01T21:51:42.043547100Z\"},\"accumulate\":0,\"day\":5,\"hour\":7,\"minute\":50}"
+          }
+        }
+      ],
+      [
+        {
+          "x": 6,
+          "y": 6,
+          "z": 0
+        },
+        {
+          "collectable": null,
+          "structure": null,
+          "land": {
+            "expired": false,
+            "timeSinceExpiringState": null,
+            "creationTime": {
+              "type": "oogasalad.model.gameplay.GameTime",
+              "data": "{\"previous\":{\"data\":\"2024-05-01T21:31:08.614336600Z\"},\"accumulate\":0,\"day\":0,\"hour\":0,\"minute\":0}"
+            },
+            "changePropertiesOnNextIteration": false,
+            "id": "cover_bomb",
+            "nextId": null,
+            "lastUpdateGameTime": {
+              "type": "oogasalad.model.gameplay.GameTime",
+              "data": "{\"previous\":{\"data\":\"2024-05-01T21:51:42.043547100Z\"},\"accumulate\":0,\"day\":5,\"hour\":7,\"minute\":50}"
+            }
+          },
+          "lastUpdatingGameTime": {
+            "type": "oogasalad.model.gameplay.GameTime",
+            "data": "{\"previous\":{\"data\":\"2024-05-01T21:51:42.043547100Z\"},\"accumulate\":0,\"day\":5,\"hour\":7,\"minute\":50}"
+          }
+        }
+      ],
+      [
+        {
+          "x": 1,
+          "y": 0,
+          "z": 0
+        },
+        {
+          "collectable": null,
+          "structure": null,
+          "land": {
+            "expired": false,
+            "timeSinceExpiringState": null,
+            "creationTime": {
+              "type": "oogasalad.model.gameplay.GameTime",
+              "data": "{\"previous\":{\"data\":\"2024-05-01T21:45:31.979708400Z\"},\"accumulate\":0,\"day\":3,\"hour\":6,\"minute\":10}"
+            },
+            "changePropertiesOnNextIteration": false,
+            "id": "one",
+            "nextId": "one",
+            "lastUpdateGameTime": {
+              "type": "oogasalad.model.gameplay.GameTime",
+              "data": "{\"previous\":{\"data\":\"2024-05-01T21:51:42.043547100Z\"},\"accumulate\":0,\"day\":5,\"hour\":7,\"minute\":50}"
+            }
+          },
+          "lastUpdatingGameTime": {
+            "type": "oogasalad.model.gameplay.GameTime",
+            "data": "{\"previous\":{\"data\":\"2024-05-01T21:51:42.043547100Z\"},\"accumulate\":0,\"day\":5,\"hour\":7,\"minute\":50}"
+          }
+        }
+      ],
+      [
+        {
+          "x": 5,
+          "y": 4,
+          "z": 0
+        },
+        {
+          "collectable": null,
+          "structure": null,
+          "land": {
+            "expired": false,
+            "timeSinceExpiringState": null,
+            "creationTime": {
+              "type": "oogasalad.model.gameplay.GameTime",
+              "data": "{\"previous\":{\"data\":\"2024-05-01T21:45:52.076040700Z\"},\"accumulate\":0,\"day\":4,\"hour\":6,\"minute\":20}"
+            },
+            "changePropertiesOnNextIteration": false,
+            "id": "one",
+            "nextId": "one",
+            "lastUpdateGameTime": {
+              "type": "oogasalad.model.gameplay.GameTime",
+              "data": "{\"previous\":{\"data\":\"2024-05-01T21:51:42.043547100Z\"},\"accumulate\":0,\"day\":5,\"hour\":7,\"minute\":50}"
+            }
+          },
+          "lastUpdatingGameTime": {
+            "type": "oogasalad.model.gameplay.GameTime",
+            "data": "{\"previous\":{\"data\":\"2024-05-01T21:51:42.043547100Z\"},\"accumulate\":0,\"day\":5,\"hour\":7,\"minute\":50}"
+          }
+        }
+      ],
+      [
+        {
+          "x": 4,
+          "y": 2,
+          "z": 0
+        },
+        {
+          "collectable": null,
+          "structure": null,
+          "land": {
+            "expired": false,
+            "timeSinceExpiringState": null,
+            "creationTime": {
+              "type": "oogasalad.model.gameplay.GameTime",
+              "data": "{\"previous\":{\"data\":\"2024-05-01T21:45:29.820275800Z\"},\"accumulate\":0,\"day\":3,\"hour\":6,\"minute\":10}"
+            },
+            "changePropertiesOnNextIteration": false,
+            "id": "empty",
+            "nextId": "empty",
+            "lastUpdateGameTime": {
+              "type": "oogasalad.model.gameplay.GameTime",
+              "data": "{\"previous\":{\"data\":\"2024-05-01T21:51:42.043547100Z\"},\"accumulate\":0,\"day\":5,\"hour\":7,\"minute\":50}"
+            }
+          },
+          "lastUpdatingGameTime": {
+            "type": "oogasalad.model.gameplay.GameTime",
+            "data": "{\"previous\":{\"data\":\"2024-05-01T21:51:42.043547100Z\"},\"accumulate\":0,\"day\":5,\"hour\":7,\"minute\":50}"
+          }
+        }
+      ],
+      [
+        {
+          "x": 8,
+          "y": 6,
+          "z": 0
+        },
+        {
+          "collectable": null,
+          "structure": null,
+          "land": {
+            "expired": false,
+            "timeSinceExpiringState": null,
+            "creationTime": {
+              "type": "oogasalad.model.gameplay.GameTime",
+              "data": "{\"previous\":{\"data\":\"2024-05-01T21:21:43.360530400Z\"},\"accumulate\":0,\"day\":0,\"hour\":0,\"minute\":0}"
+            },
+            "changePropertiesOnNextIteration": false,
+            "id": "cover_1",
+            "nextId": null,
+            "lastUpdateGameTime": {
+              "type": "oogasalad.model.gameplay.GameTime",
+              "data": "{\"previous\":{\"data\":\"2024-05-01T21:51:42.043547100Z\"},\"accumulate\":0,\"day\":5,\"hour\":7,\"minute\":50}"
+            }
+          },
+          "lastUpdatingGameTime": {
+            "type": "oogasalad.model.gameplay.GameTime",
+            "data": "{\"previous\":{\"data\":\"2024-05-01T21:51:42.043547100Z\"},\"accumulate\":0,\"day\":5,\"hour\":7,\"minute\":50}"
+          }
+        }
+      ],
+      [
+        {
+          "x": 3,
+          "y": 0,
+          "z": 0
+        },
+        {
+          "collectable": null,
+          "structure": null,
+          "land": {
+            "expired": false,
+            "timeSinceExpiringState": null,
+            "creationTime": {
+              "type": "oogasalad.model.gameplay.GameTime",
+              "data": "{\"previous\":{\"data\":\"2024-05-01T21:21:11.084111500Z\"},\"accumulate\":0,\"day\":0,\"hour\":0,\"minute\":0}"
+            },
+            "changePropertiesOnNextIteration": false,
+            "id": "cover_1",
+            "nextId": null,
+            "lastUpdateGameTime": {
+              "type": "oogasalad.model.gameplay.GameTime",
+              "data": "{\"previous\":{\"data\":\"2024-05-01T21:51:42.043547100Z\"},\"accumulate\":0,\"day\":5,\"hour\":7,\"minute\":50}"
+            }
+          },
+          "lastUpdatingGameTime": {
+            "type": "oogasalad.model.gameplay.GameTime",
+            "data": "{\"previous\":{\"data\":\"2024-05-01T21:51:42.043547100Z\"},\"accumulate\":0,\"day\":5,\"hour\":7,\"minute\":50}"
+          }
+        }
+      ],
+      [
+        {
+          "x": 7,
+          "y": 4,
+          "z": 0
+        },
+        {
+          "collectable": null,
+          "structure": null,
+          "land": {
+            "expired": false,
+            "timeSinceExpiringState": null,
+            "creationTime": {
+              "type": "oogasalad.model.gameplay.GameTime",
+              "data": "{\"previous\":{\"data\":\"2024-05-01T21:51:30.747540900Z\"},\"accumulate\":0,\"day\":5,\"hour\":7,\"minute\":40}"
+            },
+            "changePropertiesOnNextIteration": false,
+            "id": "two",
+            "nextId": "two",
+            "lastUpdateGameTime": {
+              "type": "oogasalad.model.gameplay.GameTime",
+              "data": "{\"previous\":{\"data\":\"2024-05-01T21:51:42.043547100Z\"},\"accumulate\":0,\"day\":5,\"hour\":7,\"minute\":50}"
+            }
+          },
+          "lastUpdatingGameTime": {
+            "type": "oogasalad.model.gameplay.GameTime",
+            "data": "{\"previous\":{\"data\":\"2024-05-01T21:51:42.043547100Z\"},\"accumulate\":0,\"day\":5,\"hour\":7,\"minute\":50}"
+          }
+        }
+      ],
+      [
+        {
+          "x": 6,
+          "y": 2,
+          "z": 0
+        },
+        {
+          "collectable": null,
+          "structure": null,
+          "land": {
+            "expired": false,
+            "timeSinceExpiringState": null,
+            "creationTime": {
+              "type": "oogasalad.model.gameplay.GameTime",
+              "data": "{\"previous\":{\"data\":\"2024-05-01T21:45:16.348156100Z\"},\"accumulate\":0,\"day\":2,\"hour\":6,\"minute\":10}"
+            },
+            "changePropertiesOnNextIteration": false,
+            "id": "empty",
+            "nextId": "empty",
+            "lastUpdateGameTime": {
+              "type": "oogasalad.model.gameplay.GameTime",
+              "data": "{\"previous\":{\"data\":\"2024-05-01T21:51:42.043547100Z\"},\"accumulate\":0,\"day\":5,\"hour\":7,\"minute\":50}"
+            }
+          },
+          "lastUpdatingGameTime": {
+            "type": "oogasalad.model.gameplay.GameTime",
+            "data": "{\"previous\":{\"data\":\"2024-05-01T21:51:42.043547100Z\"},\"accumulate\":0,\"day\":5,\"hour\":7,\"minute\":50}"
+          }
+        }
+      ],
+      [
+        {
+          "x": 5,
+          "y": 0,
+          "z": 0
+        },
+        {
+          "collectable": null,
+          "structure": null,
+          "land": {
+            "expired": false,
+            "timeSinceExpiringState": null,
+            "creationTime": {
+              "type": "oogasalad.model.gameplay.GameTime",
+              "data": "{\"previous\":{\"data\":\"2024-05-01T21:45:24.012068100Z\"},\"accumulate\":0,\"day\":3,\"hour\":6,\"minute\":0}"
+            },
+            "changePropertiesOnNextIteration": false,
+            "id": "empty",
+            "nextId": "empty",
+            "lastUpdateGameTime": {
+              "type": "oogasalad.model.gameplay.GameTime",
+              "data": "{\"previous\":{\"data\":\"2024-05-01T21:51:42.043547100Z\"},\"accumulate\":0,\"day\":5,\"hour\":7,\"minute\":50}"
+            }
+          },
+          "lastUpdatingGameTime": {
+            "type": "oogasalad.model.gameplay.GameTime",
+            "data": "{\"previous\":{\"data\":\"2024-05-01T21:51:42.043547100Z\"},\"accumulate\":0,\"day\":5,\"hour\":7,\"minute\":50}"
+          }
+        }
+      ],
+      [
+        {
+          "x": 8,
+          "y": 2,
+          "z": 0
+        },
+        {
+          "collectable": null,
+          "structure": null,
+          "land": {
+            "expired": false,
+            "timeSinceExpiringState": null,
+            "creationTime": {
+              "type": "oogasalad.model.gameplay.GameTime",
+              "data": "{\"previous\":{\"data\":\"2024-05-01T21:45:13.979508100Z\"},\"accumulate\":0,\"day\":2,\"hour\":6,\"minute\":10}"
+            },
+            "changePropertiesOnNextIteration": false,
+            "id": "one",
+            "nextId": "one",
+            "lastUpdateGameTime": {
+              "type": "oogasalad.model.gameplay.GameTime",
+              "data": "{\"previous\":{\"data\":\"2024-05-01T21:51:42.043547100Z\"},\"accumulate\":0,\"day\":5,\"hour\":7,\"minute\":50}"
+            }
+          },
+          "lastUpdatingGameTime": {
+            "type": "oogasalad.model.gameplay.GameTime",
+            "data": "{\"previous\":{\"data\":\"2024-05-01T21:51:42.043547100Z\"},\"accumulate\":0,\"day\":5,\"hour\":7,\"minute\":50}"
+          }
+        }
+      ],
+      [
+        {
+          "x": 7,
+          "y": 0,
+          "z": 0
+        },
+        {
+          "collectable": null,
+          "structure": null,
+          "land": {
+            "expired": false,
+            "timeSinceExpiringState": null,
+            "creationTime": {
+              "type": "oogasalad.model.gameplay.GameTime",
+              "data": "{\"previous\":{\"data\":\"2024-05-01T21:31:03.295837100Z\"},\"accumulate\":0,\"day\":0,\"hour\":0,\"minute\":0}"
+            },
+            "changePropertiesOnNextIteration": false,
+            "id": "cover_bomb",
+            "nextId": null,
+            "lastUpdateGameTime": {
+              "type": "oogasalad.model.gameplay.GameTime",
+              "data": "{\"previous\":{\"data\":\"2024-05-01T21:51:42.043547100Z\"},\"accumulate\":0,\"day\":5,\"hour\":7,\"minute\":50}"
+            }
+          },
+          "lastUpdatingGameTime": {
+            "type": "oogasalad.model.gameplay.GameTime",
+            "data": "{\"previous\":{\"data\":\"2024-05-01T21:51:42.043547100Z\"},\"accumulate\":0,\"day\":5,\"hour\":7,\"minute\":50}"
+          }
+        }
+      ],
+      [
+        {
+          "x": 0,
+          "y": 7,
+          "z": 0
+        },
+        {
+          "collectable": null,
+          "structure": null,
+          "land": {
+            "expired": false,
+            "timeSinceExpiringState": null,
+            "creationTime": {
+              "type": "oogasalad.model.gameplay.GameTime",
+              "data": "{\"previous\":{\"data\":\"2024-05-01T21:44:59.580377900Z\"},\"accumulate\":0,\"day\":1,\"hour\":8,\"minute\":10}"
+            },
+            "changePropertiesOnNextIteration": false,
+            "id": "empty",
+            "nextId": "empty",
+            "lastUpdateGameTime": {
+              "type": "oogasalad.model.gameplay.GameTime",
+              "data": "{\"previous\":{\"data\":\"2024-05-01T21:51:42.043547100Z\"},\"accumulate\":0,\"day\":5,\"hour\":7,\"minute\":50}"
+            }
+          },
+          "lastUpdatingGameTime": {
+            "type": "oogasalad.model.gameplay.GameTime",
+            "data": "{\"previous\":{\"data\":\"2024-05-01T21:51:42.043547100Z\"},\"accumulate\":0,\"day\":5,\"hour\":7,\"minute\":50}"
+          }
+        }
+      ],
+      [
+        {
+          "x": 2,
+          "y": 7,
+          "z": 0
+        },
+        {
+          "collectable": null,
+          "structure": null,
+          "land": {
+            "expired": false,
+            "timeSinceExpiringState": null,
+            "creationTime": {
+              "type": "oogasalad.model.gameplay.GameTime",
+              "data": "{\"previous\":{\"data\":\"2024-05-01T21:26:45.632452800Z\"},\"accumulate\":0,\"day\":0,\"hour\":0,\"minute\":0}"
+            },
+            "changePropertiesOnNextIteration": false,
+            "id": "cover_2",
+            "nextId": null,
+            "lastUpdateGameTime": {
+              "type": "oogasalad.model.gameplay.GameTime",
+              "data": "{\"previous\":{\"data\":\"2024-05-01T21:51:42.043547100Z\"},\"accumulate\":0,\"day\":5,\"hour\":7,\"minute\":50}"
+            }
+          },
+          "lastUpdatingGameTime": {
+            "type": "oogasalad.model.gameplay.GameTime",
+            "data": "{\"previous\":{\"data\":\"2024-05-01T21:51:42.043547100Z\"},\"accumulate\":0,\"day\":5,\"hour\":7,\"minute\":50}"
+          }
+        }
+      ],
+      [
+        {
+          "x": 1,
+          "y": 5,
+          "z": 0
+        },
+        {
+          "collectable": null,
+          "structure": null,
+          "land": {
+            "expired": false,
+            "timeSinceExpiringState": null,
+            "creationTime": {
+              "type": "oogasalad.model.gameplay.GameTime",
+              "data": "{\"previous\":{\"data\":\"2024-05-01T21:45:41.244042Z\"},\"accumulate\":0,\"day\":4,\"hour\":6,\"minute\":0}"
+            },
+            "changePropertiesOnNextIteration": false,
+            "id": "one",
+            "nextId": "one",
+            "lastUpdateGameTime": {
+              "type": "oogasalad.model.gameplay.GameTime",
+              "data": "{\"previous\":{\"data\":\"2024-05-01T21:51:42.043547100Z\"},\"accumulate\":0,\"day\":5,\"hour\":7,\"minute\":50}"
+            }
+          },
+          "lastUpdatingGameTime": {
+            "type": "oogasalad.model.gameplay.GameTime",
+            "data": "{\"previous\":{\"data\":\"2024-05-01T21:51:42.043547100Z\"},\"accumulate\":0,\"day\":5,\"hour\":7,\"minute\":50}"
+          }
+        }
+      ],
+      [
+        {
+          "x": 0,
+          "y": 3,
+          "z": 0
+        },
+        {
+          "collectable": null,
+          "structure": null,
+          "land": {
+            "expired": false,
+            "timeSinceExpiringState": null,
+            "creationTime": {
+              "type": "oogasalad.model.gameplay.GameTime",
+              "data": "{\"previous\":{\"data\":\"2024-05-01T21:44:56.780023100Z\"},\"accumulate\":0,\"day\":1,\"hour\":8,\"minute\":0}"
+            },
+            "changePropertiesOnNextIteration": false,
+            "id": "empty",
+            "nextId": "empty",
+            "lastUpdateGameTime": {
+              "type": "oogasalad.model.gameplay.GameTime",
+              "data": "{\"previous\":{\"data\":\"2024-05-01T21:51:42.043547100Z\"},\"accumulate\":0,\"day\":5,\"hour\":7,\"minute\":50}"
+            }
+          },
+          "lastUpdatingGameTime": {
+            "type": "oogasalad.model.gameplay.GameTime",
+            "data": "{\"previous\":{\"data\":\"2024-05-01T21:51:42.043547100Z\"},\"accumulate\":0,\"day\":5,\"hour\":7,\"minute\":50}"
+          }
+        }
+      ],
+      [
+        {
+          "x": 4,
+          "y": 7,
+          "z": 0
+        },
+        {
+          "collectable": null,
+          "structure": null,
+          "land": {
+            "expired": false,
+            "timeSinceExpiringState": null,
+            "creationTime": {
+              "type": "oogasalad.model.gameplay.GameTime",
+              "data": "{\"previous\":{\"data\":\"2024-05-01T21:47:43.404077100Z\"},\"accumulate\":0,\"day\":5,\"hour\":6,\"minute\":30}"
+            },
+            "changePropertiesOnNextIteration": false,
+            "id": "two",
+            "nextId": "two",
+            "lastUpdateGameTime": {
+              "type": "oogasalad.model.gameplay.GameTime",
+              "data": "{\"previous\":{\"data\":\"2024-05-01T21:51:42.043547100Z\"},\"accumulate\":0,\"day\":5,\"hour\":7,\"minute\":50}"
+            }
+          },
+          "lastUpdatingGameTime": {
+            "type": "oogasalad.model.gameplay.GameTime",
+            "data": "{\"previous\":{\"data\":\"2024-05-01T21:51:42.043547100Z\"},\"accumulate\":0,\"day\":5,\"hour\":7,\"minute\":50}"
+          }
+        }
+      ],
+      [
+        {
+          "x": 3,
+          "y": 5,
+          "z": 0
+        },
+        {
+          "collectable": null,
+          "structure": null,
+          "land": {
+            "expired": false,
+            "timeSinceExpiringState": null,
+            "creationTime": {
+              "type": "oogasalad.model.gameplay.GameTime",
+              "data": "{\"previous\":{\"data\":\"2024-05-01T21:26:42.375636800Z\"},\"accumulate\":0,\"day\":0,\"hour\":0,\"minute\":0}"
+            },
+            "changePropertiesOnNextIteration": false,
+            "id": "cover_2",
+            "nextId": null,
+            "lastUpdateGameTime": {
+              "type": "oogasalad.model.gameplay.GameTime",
+              "data": "{\"previous\":{\"data\":\"2024-05-01T21:51:42.043547100Z\"},\"accumulate\":0,\"day\":5,\"hour\":7,\"minute\":50}"
+            }
+          },
+          "lastUpdatingGameTime": {
+            "type": "oogasalad.model.gameplay.GameTime",
+            "data": "{\"previous\":{\"data\":\"2024-05-01T21:51:42.043547100Z\"},\"accumulate\":0,\"day\":5,\"hour\":7,\"minute\":50}"
+          }
+        }
+      ],
+      [
+        {
+          "x": 2,
+          "y": 3,
+          "z": 0
+        },
+        {
+          "collectable": null,
+          "structure": null,
+          "land": {
+            "expired": false,
+            "timeSinceExpiringState": null,
+            "creationTime": {
+              "type": "oogasalad.model.gameplay.GameTime",
+              "data": "{\"previous\":{\"data\":\"2024-05-01T21:45:06.715534100Z\"},\"accumulate\":0,\"day\":1,\"hour\":8,\"minute\":20}"
+            },
+            "changePropertiesOnNextIteration": false,
+            "id": "empty",
+            "nextId": "empty",
+            "lastUpdateGameTime": {
+              "type": "oogasalad.model.gameplay.GameTime",
+              "data": "{\"previous\":{\"data\":\"2024-05-01T21:51:42.043547100Z\"},\"accumulate\":0,\"day\":5,\"hour\":7,\"minute\":50}"
+            }
+          },
+          "lastUpdatingGameTime": {
+            "type": "oogasalad.model.gameplay.GameTime",
+            "data": "{\"previous\":{\"data\":\"2024-05-01T21:51:42.043547100Z\"},\"accumulate\":0,\"day\":5,\"hour\":7,\"minute\":50}"
+          }
+        }
+      ],
+      [
+        {
+          "x": 6,
+          "y": 7,
+          "z": 0
+        },
+        {
+          "collectable": null,
+          "structure": null,
+          "land": {
+            "expired": false,
+            "timeSinceExpiringState": null,
+            "creationTime": {
+              "type": "oogasalad.model.gameplay.GameTime",
+              "data": "{\"previous\":{\"data\":\"2024-05-01T21:21:41.014253600Z\"},\"accumulate\":0,\"day\":0,\"hour\":0,\"minute\":0}"
+            },
+            "changePropertiesOnNextIteration": false,
+            "id": "cover_1",
+            "nextId": null,
+            "lastUpdateGameTime": {
+              "type": "oogasalad.model.gameplay.GameTime",
+              "data": "{\"previous\":{\"data\":\"2024-05-01T21:51:42.043547100Z\"},\"accumulate\":0,\"day\":5,\"hour\":7,\"minute\":50}"
+            }
+          },
+          "lastUpdatingGameTime": {
+            "type": "oogasalad.model.gameplay.GameTime",
+            "data": "{\"previous\":{\"data\":\"2024-05-01T21:51:42.043547100Z\"},\"accumulate\":0,\"day\":5,\"hour\":7,\"minute\":50}"
+          }
+        }
+      ],
+      [
+        {
+          "x": 1,
+          "y": 1,
+          "z": 0
+        },
+        {
+          "collectable": null,
+          "structure": null,
+          "land": {
+            "expired": false,
+            "timeSinceExpiringState": null,
+            "creationTime": {
+              "type": "oogasalad.model.gameplay.GameTime",
+              "data": "{\"previous\":{\"data\":\"2024-05-01T21:45:31.451739500Z\"},\"accumulate\":0,\"day\":3,\"hour\":6,\"minute\":10}"
+            },
+            "changePropertiesOnNextIteration": false,
+            "id": "one",
+            "nextId": "one",
+            "lastUpdateGameTime": {
+              "type": "oogasalad.model.gameplay.GameTime",
+              "data": "{\"previous\":{\"data\":\"2024-05-01T21:51:42.043547100Z\"},\"accumulate\":0,\"day\":5,\"hour\":7,\"minute\":50}"
+            }
+          },
+          "lastUpdatingGameTime": {
+            "type": "oogasalad.model.gameplay.GameTime",
+            "data": "{\"previous\":{\"data\":\"2024-05-01T21:51:42.043547100Z\"},\"accumulate\":0,\"day\":5,\"hour\":7,\"minute\":50}"
+          }
+        }
+      ],
+      [
+        {
+          "x": 5,
+          "y": 5,
+          "z": 0
+        },
+        {
+          "collectable": null,
+          "structure": null,
+          "land": {
+            "expired": false,
+            "timeSinceExpiringState": null,
+            "creationTime": {
+              "type": "oogasalad.model.gameplay.GameTime",
+              "data": "{\"previous\":{\"data\":\"2024-05-01T21:27:43.809238100Z\"},\"accumulate\":0,\"day\":0,\"hour\":0,\"minute\":0}"
+            },
+            "changePropertiesOnNextIteration": false,
+            "id": "cover_3",
+            "nextId": null,
+            "lastUpdateGameTime": {
+              "type": "oogasalad.model.gameplay.GameTime",
+              "data": "{\"previous\":{\"data\":\"2024-05-01T21:51:42.043547100Z\"},\"accumulate\":0,\"day\":5,\"hour\":7,\"minute\":50}"
+            }
+          },
+          "lastUpdatingGameTime": {
+            "type": "oogasalad.model.gameplay.GameTime",
+            "data": "{\"previous\":{\"data\":\"2024-05-01T21:51:42.043547100Z\"},\"accumulate\":0,\"day\":5,\"hour\":7,\"minute\":50}"
+          }
+        }
+      ],
+      [
+        {
+          "x": 4,
+          "y": 3,
+          "z": 0
+        },
+        {
+          "collectable": null,
+          "structure": null,
+          "land": {
+            "expired": false,
+            "timeSinceExpiringState": null,
+            "creationTime": {
+              "type": "oogasalad.model.gameplay.GameTime",
+              "data": "{\"previous\":{\"data\":\"2024-05-01T21:45:08.779809100Z\"},\"accumulate\":0,\"day\":2,\"hour\":6,\"minute\":0}"
+            },
+            "changePropertiesOnNextIteration": false,
+            "id": "empty",
+            "nextId": "empty",
+            "lastUpdateGameTime": {
+              "type": "oogasalad.model.gameplay.GameTime",
+              "data": "{\"previous\":{\"data\":\"2024-05-01T21:51:42.043547100Z\"},\"accumulate\":0,\"day\":5,\"hour\":7,\"minute\":50}"
+            }
+          },
+          "lastUpdatingGameTime": {
+            "type": "oogasalad.model.gameplay.GameTime",
+            "data": "{\"previous\":{\"data\":\"2024-05-01T21:51:42.043547100Z\"},\"accumulate\":0,\"day\":5,\"hour\":7,\"minute\":50}"
+          }
+        }
+      ],
+      [
+        {
+          "x": 8,
+          "y": 7,
+          "z": 0
+        },
+        {
+          "collectable": null,
+          "structure": null,
+          "land": {
+            "expired": false,
+            "timeSinceExpiringState": null,
+            "creationTime": {
+              "type": "oogasalad.model.gameplay.GameTime",
+              "data": "{\"previous\":{\"data\":\"2024-05-01T21:45:54.316115900Z\"},\"accumulate\":0,\"day\":4,\"hour\":6,\"minute\":20}"
+            },
+            "changePropertiesOnNextIteration": false,
+            "id": "empty",
+            "nextId": "empty",
+            "lastUpdateGameTime": {
+              "type": "oogasalad.model.gameplay.GameTime",
+              "data": "{\"previous\":{\"data\":\"2024-05-01T21:51:42.043547100Z\"},\"accumulate\":0,\"day\":5,\"hour\":7,\"minute\":50}"
+            }
+          },
+          "lastUpdatingGameTime": {
+            "type": "oogasalad.model.gameplay.GameTime",
+            "data": "{\"previous\":{\"data\":\"2024-05-01T21:51:42.043547100Z\"},\"accumulate\":0,\"day\":5,\"hour\":7,\"minute\":50}"
+          }
+        }
+      ],
+      [
+        {
+          "x": 3,
+          "y": 1,
+          "z": 0
+        },
+        {
+          "collectable": null,
+          "structure": null,
+          "land": {
+            "expired": false,
+            "timeSinceExpiringState": null,
+            "creationTime": {
+              "type": "oogasalad.model.gameplay.GameTime",
+              "data": "{\"previous\":{\"data\":\"2024-05-01T21:21:12.998974700Z\"},\"accumulate\":0,\"day\":0,\"hour\":0,\"minute\":0}"
+            },
+            "changePropertiesOnNextIteration": false,
+            "id": "cover_1",
+            "nextId": null,
+            "lastUpdateGameTime": {
+              "type": "oogasalad.model.gameplay.GameTime",
+              "data": "{\"previous\":{\"data\":\"2024-05-01T21:51:42.043547100Z\"},\"accumulate\":0,\"day\":5,\"hour\":7,\"minute\":50}"
+            }
+          },
+          "lastUpdatingGameTime": {
+            "type": "oogasalad.model.gameplay.GameTime",
+            "data": "{\"previous\":{\"data\":\"2024-05-01T21:51:42.043547100Z\"},\"accumulate\":0,\"day\":5,\"hour\":7,\"minute\":50}"
+          }
+        }
+      ],
+      [
+        {
+          "x": 7,
+          "y": 5,
+          "z": 0
+        },
+        {
+          "collectable": null,
+          "structure": null,
+          "land": {
+            "expired": false,
+            "timeSinceExpiringState": null,
+            "creationTime": {
+              "type": "oogasalad.model.gameplay.GameTime",
+              "data": "{\"previous\":{\"data\":\"2024-05-01T21:31:09.556481400Z\"},\"accumulate\":0,\"day\":0,\"hour\":0,\"minute\":0}"
+            },
+            "changePropertiesOnNextIteration": false,
+            "id": "cover_bomb",
+            "nextId": null,
+            "lastUpdateGameTime": {
+              "type": "oogasalad.model.gameplay.GameTime",
+              "data": "{\"previous\":{\"data\":\"2024-05-01T21:51:42.043547100Z\"},\"accumulate\":0,\"day\":5,\"hour\":7,\"minute\":50}"
+            }
+          },
+          "lastUpdatingGameTime": {
+            "type": "oogasalad.model.gameplay.GameTime",
+            "data": "{\"previous\":{\"data\":\"2024-05-01T21:51:42.043547100Z\"},\"accumulate\":0,\"day\":5,\"hour\":7,\"minute\":50}"
+          }
+        }
+      ],
+      [
+        {
+          "x": 6,
+          "y": 3,
+          "z": 0
+        },
+        {
+          "collectable": null,
+          "structure": null,
+          "land": {
+            "expired": false,
+            "timeSinceExpiringState": null,
+            "creationTime": {
+              "type": "oogasalad.model.gameplay.GameTime",
+              "data": "{\"previous\":{\"data\":\"2024-05-01T21:45:10.011880200Z\"},\"accumulate\":0,\"day\":2,\"hour\":6,\"minute\":0}"
+            },
+            "changePropertiesOnNextIteration": false,
+            "id": "empty",
+            "nextId": "empty",
+            "lastUpdateGameTime": {
+              "type": "oogasalad.model.gameplay.GameTime",
+              "data": "{\"previous\":{\"data\":\"2024-05-01T21:51:42.043547100Z\"},\"accumulate\":0,\"day\":5,\"hour\":7,\"minute\":50}"
+            }
+          },
+          "lastUpdatingGameTime": {
+            "type": "oogasalad.model.gameplay.GameTime",
+            "data": "{\"previous\":{\"data\":\"2024-05-01T21:51:42.043547100Z\"},\"accumulate\":0,\"day\":5,\"hour\":7,\"minute\":50}"
+          }
+        }
+      ],
+      [
+        {
+          "x": 5,
+          "y": 1,
+          "z": 0
+        },
+        {
+          "collectable": null,
+          "structure": null,
+          "land": {
+            "expired": false,
+            "timeSinceExpiringState": null,
+            "creationTime": {
+              "type": "oogasalad.model.gameplay.GameTime",
+              "data": "{\"previous\":{\"data\":\"2024-05-01T21:45:26.075588900Z\"},\"accumulate\":0,\"day\":3,\"hour\":6,\"minute\":0}"
+            },
+            "changePropertiesOnNextIteration": false,
+            "id": "empty",
+            "nextId": "empty",
+            "lastUpdateGameTime": {
+              "type": "oogasalad.model.gameplay.GameTime",
+              "data": "{\"previous\":{\"data\":\"2024-05-01T21:51:42.043547100Z\"},\"accumulate\":0,\"day\":5,\"hour\":7,\"minute\":50}"
+            }
+          },
+          "lastUpdatingGameTime": {
+            "type": "oogasalad.model.gameplay.GameTime",
+            "data": "{\"previous\":{\"data\":\"2024-05-01T21:51:42.043547100Z\"},\"accumulate\":0,\"day\":5,\"hour\":7,\"minute\":50}"
+          }
+        }
+      ],
+      [
+        {
+          "x": 8,
+          "y": 3,
+          "z": 0
+        },
+        {
+          "collectable": null,
+          "structure": null,
+          "land": {
+            "expired": false,
+            "timeSinceExpiringState": null,
+            "creationTime": {
+              "type": "oogasalad.model.gameplay.GameTime",
+              "data": "{\"previous\":{\"data\":\"2024-05-01T21:45:11.180161300Z\"},\"accumulate\":0,\"day\":2,\"hour\":6,\"minute\":0}"
+            },
+            "changePropertiesOnNextIteration": false,
+            "id": "empty",
+            "nextId": "empty",
+            "lastUpdateGameTime": {
+              "type": "oogasalad.model.gameplay.GameTime",
+              "data": "{\"previous\":{\"data\":\"2024-05-01T21:51:42.043547100Z\"},\"accumulate\":0,\"day\":5,\"hour\":7,\"minute\":50}"
+            }
+          },
+          "lastUpdatingGameTime": {
+            "type": "oogasalad.model.gameplay.GameTime",
+            "data": "{\"previous\":{\"data\":\"2024-05-01T21:51:42.043547100Z\"},\"accumulate\":0,\"day\":5,\"hour\":7,\"minute\":50}"
+          }
+        }
+      ],
+      [
+        {
+          "x": 7,
+          "y": 1,
+          "z": 0
+        },
+        {
+          "collectable": null,
+          "structure": null,
+          "land": {
+            "expired": false,
+            "timeSinceExpiringState": null,
+            "creationTime": {
+              "type": "oogasalad.model.gameplay.GameTime",
+              "data": "{\"previous\":{\"data\":\"2024-05-01T21:45:17.148367100Z\"},\"accumulate\":0,\"day\":2,\"hour\":6,\"minute\":10}"
+            },
+            "changePropertiesOnNextIteration": false,
+            "id": "two",
+            "nextId": "two",
+            "lastUpdateGameTime": {
+              "type": "oogasalad.model.gameplay.GameTime",
+              "data": "{\"previous\":{\"data\":\"2024-05-01T21:51:42.043547100Z\"},\"accumulate\":0,\"day\":5,\"hour\":7,\"minute\":50}"
+            }
+          },
+          "lastUpdatingGameTime": {
+            "type": "oogasalad.model.gameplay.GameTime",
+            "data": "{\"previous\":{\"data\":\"2024-05-01T21:51:42.043547100Z\"},\"accumulate\":0,\"day\":5,\"hour\":7,\"minute\":50}"
+          }
+        }
+      ],
+      [
+        {
+          "x": 0,
+          "y": 8,
+          "z": 0
+        },
+        {
+          "collectable": null,
+          "structure": null,
+          "land": {
+            "expired": false,
+            "timeSinceExpiringState": null,
+            "creationTime": {
+              "type": "oogasalad.model.gameplay.GameTime",
+              "data": "{\"previous\":{\"data\":\"2024-05-01T21:45:00.347549100Z\"},\"accumulate\":0,\"day\":1,\"hour\":8,\"minute\":10}"
+            },
+            "changePropertiesOnNextIteration": false,
+            "id": "empty",
+            "nextId": "empty",
+            "lastUpdateGameTime": {
+              "type": "oogasalad.model.gameplay.GameTime",
+              "data": "{\"previous\":{\"data\":\"2024-05-01T21:51:42.043547100Z\"},\"accumulate\":0,\"day\":5,\"hour\":7,\"minute\":50}"
+            }
+          },
+          "lastUpdatingGameTime": {
+            "type": "oogasalad.model.gameplay.GameTime",
+            "data": "{\"previous\":{\"data\":\"2024-05-01T21:51:42.043547100Z\"},\"accumulate\":0,\"day\":5,\"hour\":7,\"minute\":50}"
+          }
+        }
+      ],
+      [
+        {
+          "x": 2,
+          "y": 8,
+          "z": 0
+        },
+        {
+          "collectable": null,
+          "structure": null,
+          "land": {
+            "expired": false,
+            "timeSinceExpiringState": null,
+            "creationTime": {
+              "type": "oogasalad.model.gameplay.GameTime",
+              "data": "{\"previous\":{\"data\":\"2024-05-01T21:31:11.867968100Z\"},\"accumulate\":0,\"day\":0,\"hour\":0,\"minute\":0}"
+            },
+            "changePropertiesOnNextIteration": false,
+            "id": "cover_bomb",
+            "nextId": null,
+            "lastUpdateGameTime": {
+              "type": "oogasalad.model.gameplay.GameTime",
+              "data": "{\"previous\":{\"data\":\"2024-05-01T21:51:42.043547100Z\"},\"accumulate\":0,\"day\":5,\"hour\":7,\"minute\":50}"
+            }
+          },
+          "lastUpdatingGameTime": {
+            "type": "oogasalad.model.gameplay.GameTime",
+            "data": "{\"previous\":{\"data\":\"2024-05-01T21:51:42.043547100Z\"},\"accumulate\":0,\"day\":5,\"hour\":7,\"minute\":50}"
+          }
+        }
+      ],
+      [
+        {
+          "x": 1,
+          "y": 6,
+          "z": 0
+        },
+        {
+          "collectable": null,
+          "structure": null,
+          "land": {
+            "expired": false,
+            "timeSinceExpiringState": null,
+            "creationTime": {
+              "type": "oogasalad.model.gameplay.GameTime",
+              "data": "{\"previous\":{\"data\":\"2024-05-01T21:45:43.708317800Z\"},\"accumulate\":0,\"day\":4,\"hour\":6,\"minute\":10}"
+            },
+            "changePropertiesOnNextIteration": false,
+            "id": "one",
+            "nextId": "one",
+            "lastUpdateGameTime": {
+              "type": "oogasalad.model.gameplay.GameTime",
+              "data": "{\"previous\":{\"data\":\"2024-05-01T21:51:42.043547100Z\"},\"accumulate\":0,\"day\":5,\"hour\":7,\"minute\":50}"
+            }
+          },
+          "lastUpdatingGameTime": {
+            "type": "oogasalad.model.gameplay.GameTime",
+            "data": "{\"previous\":{\"data\":\"2024-05-01T21:51:42.043547100Z\"},\"accumulate\":0,\"day\":5,\"hour\":7,\"minute\":50}"
+          }
+        }
+      ],
+      [
+        {
+          "x": 0,
+          "y": 4,
+          "z": 0
+        },
+        {
+          "collectable": null,
+          "structure": null,
+          "land": {
+            "expired": false,
+            "timeSinceExpiringState": null,
+            "creationTime": {
+              "type": "oogasalad.model.gameplay.GameTime",
+              "data": "{\"previous\":{\"data\":\"2024-05-01T21:44:57.851830700Z\"},\"accumulate\":0,\"day\":1,\"hour\":8,\"minute\":10}"
+            },
+            "changePropertiesOnNextIteration": false,
+            "id": "empty",
+            "nextId": "empty",
+            "lastUpdateGameTime": {
+              "type": "oogasalad.model.gameplay.GameTime",
+              "data": "{\"previous\":{\"data\":\"2024-05-01T21:51:42.043547100Z\"},\"accumulate\":0,\"day\":5,\"hour\":7,\"minute\":50}"
+            }
+          },
+          "lastUpdatingGameTime": {
+            "type": "oogasalad.model.gameplay.GameTime",
+            "data": "{\"previous\":{\"data\":\"2024-05-01T21:51:42.043547100Z\"},\"accumulate\":0,\"day\":5,\"hour\":7,\"minute\":50}"
+          }
+        }
+      ],
+      [
+        {
+          "x": 4,
+          "y": 8,
+          "z": 0
+        },
+        {
+          "collectable": null,
+          "structure": null,
+          "land": {
+            "expired": false,
+            "timeSinceExpiringState": null,
+            "creationTime": {
+              "type": "oogasalad.model.gameplay.GameTime",
+              "data": "{\"previous\":{\"data\":\"2024-05-01T21:31:12.765789400Z\"},\"accumulate\":0,\"day\":0,\"hour\":0,\"minute\":0}"
+            },
+            "changePropertiesOnNextIteration": false,
+            "id": "cover_bomb",
+            "nextId": null,
+            "lastUpdateGameTime": {
+              "type": "oogasalad.model.gameplay.GameTime",
+              "data": "{\"previous\":{\"data\":\"2024-05-01T21:51:42.043547100Z\"},\"accumulate\":0,\"day\":5,\"hour\":7,\"minute\":50}"
+            }
+          },
+          "lastUpdatingGameTime": {
+            "type": "oogasalad.model.gameplay.GameTime",
+            "data": "{\"previous\":{\"data\":\"2024-05-01T21:51:42.043547100Z\"},\"accumulate\":0,\"day\":5,\"hour\":7,\"minute\":50}"
+          }
+        }
+      ],
+      [
+        {
+          "x": 3,
+          "y": 6,
+          "z": 0
+        },
+        {
+          "collectable": null,
+          "structure": null,
+          "land": {
+            "expired": false,
+            "timeSinceExpiringState": null,
+            "creationTime": {
+              "type": "oogasalad.model.gameplay.GameTime",
+              "data": "{\"previous\":{\"data\":\"2024-05-01T21:26:43.050229900Z\"},\"accumulate\":0,\"day\":0,\"hour\":0,\"minute\":0}"
+            },
+            "changePropertiesOnNextIteration": false,
+            "id": "cover_2",
+            "nextId": null,
+            "lastUpdateGameTime": {
+              "type": "oogasalad.model.gameplay.GameTime",
+              "data": "{\"previous\":{\"data\":\"2024-05-01T21:51:42.043547100Z\"},\"accumulate\":0,\"day\":5,\"hour\":7,\"minute\":50}"
+            }
+          },
+          "lastUpdatingGameTime": {
+            "type": "oogasalad.model.gameplay.GameTime",
+            "data": "{\"previous\":{\"data\":\"2024-05-01T21:51:42.043547100Z\"},\"accumulate\":0,\"day\":5,\"hour\":7,\"minute\":50}"
+          }
+        }
+      ],
+      [
+        {
+          "x": 2,
+          "y": 4,
+          "z": 0
+        },
+        {
+          "collectable": null,
+          "structure": null,
+          "land": {
+            "expired": false,
+            "timeSinceExpiringState": null,
+            "creationTime": {
+              "type": "oogasalad.model.gameplay.GameTime",
+              "data": "{\"previous\":{\"data\":\"2024-05-01T21:45:48.476143200Z\"},\"accumulate\":0,\"day\":4,\"hour\":6,\"minute\":10}"
+            },
+            "changePropertiesOnNextIteration": false,
+            "id": "empty",
+            "nextId": "empty",
+            "lastUpdateGameTime": {
+              "type": "oogasalad.model.gameplay.GameTime",
+              "data": "{\"previous\":{\"data\":\"2024-05-01T21:51:42.043547100Z\"},\"accumulate\":0,\"day\":5,\"hour\":7,\"minute\":50}"
+            }
+          },
+          "lastUpdatingGameTime": {
+            "type": "oogasalad.model.gameplay.GameTime",
+            "data": "{\"previous\":{\"data\":\"2024-05-01T21:51:42.043547100Z\"},\"accumulate\":0,\"day\":5,\"hour\":7,\"minute\":50}"
+          }
+        }
+      ],
+      [
+        {
+          "x": 6,
+          "y": 8,
+          "z": 0
+        },
+        {
+          "collectable": null,
+          "structure": null,
+          "land": {
+            "expired": false,
+            "timeSinceExpiringState": null,
+            "creationTime": {
+              "type": "oogasalad.model.gameplay.GameTime",
+              "data": "{\"previous\":{\"data\":\"2024-05-01T21:45:56.411709400Z\"},\"accumulate\":0,\"day\":4,\"hour\":6,\"minute\":30}"
+            },
+            "changePropertiesOnNextIteration": false,
+            "id": "empty",
+            "nextId": "empty",
+            "lastUpdateGameTime": {
+              "type": "oogasalad.model.gameplay.GameTime",
+              "data": "{\"previous\":{\"data\":\"2024-05-01T21:51:42.043547100Z\"},\"accumulate\":0,\"day\":5,\"hour\":7,\"minute\":50}"
+            }
+          },
+          "lastUpdatingGameTime": {
+            "type": "oogasalad.model.gameplay.GameTime",
+            "data": "{\"previous\":{\"data\":\"2024-05-01T21:51:42.043547100Z\"},\"accumulate\":0,\"day\":5,\"hour\":7,\"minute\":50}"
+          }
+        }
+      ],
+      [
+        {
+          "x": 1,
+          "y": 2,
+          "z": 0
+        },
+        {
+          "collectable": null,
+          "structure": null,
+          "land": {
+            "expired": false,
+            "timeSinceExpiringState": null,
+            "creationTime": {
+              "type": "oogasalad.model.gameplay.GameTime",
+              "data": "{\"previous\":{\"data\":\"2024-05-01T21:45:30.779839300Z\"},\"accumulate\":0,\"day\":3,\"hour\":6,\"minute\":10}"
+            },
+            "changePropertiesOnNextIteration": false,
+            "id": "one",
+            "nextId": "one",
+            "lastUpdateGameTime": {
+              "type": "oogasalad.model.gameplay.GameTime",
+              "data": "{\"previous\":{\"data\":\"2024-05-01T21:51:42.043547100Z\"},\"accumulate\":0,\"day\":5,\"hour\":7,\"minute\":50}"
+            }
+          },
+          "lastUpdatingGameTime": {
+            "type": "oogasalad.model.gameplay.GameTime",
+            "data": "{\"previous\":{\"data\":\"2024-05-01T21:51:42.043547100Z\"},\"accumulate\":0,\"day\":5,\"hour\":7,\"minute\":50}"
+          }
+        }
+      ],
+      [
+        {
+          "x": 5,
+          "y": 6,
+          "z": 0
+        },
+        {
+          "collectable": null,
+          "structure": null,
+          "land": {
+            "expired": false,
+            "timeSinceExpiringState": null,
+            "creationTime": {
+              "type": "oogasalad.model.gameplay.GameTime",
+              "data": "{\"previous\":{\"data\":\"2024-05-01T21:27:44.526239300Z\"},\"accumulate\":0,\"day\":0,\"hour\":0,\"minute\":0}"
+            },
+            "changePropertiesOnNextIteration": false,
+            "id": "cover_3",
+            "nextId": null,
+            "lastUpdateGameTime": {
+              "type": "oogasalad.model.gameplay.GameTime",
+              "data": "{\"previous\":{\"data\":\"2024-05-01T21:51:42.043547100Z\"},\"accumulate\":0,\"day\":5,\"hour\":7,\"minute\":50}"
+            }
+          },
+          "lastUpdatingGameTime": {
+            "type": "oogasalad.model.gameplay.GameTime",
+            "data": "{\"previous\":{\"data\":\"2024-05-01T21:51:42.043547100Z\"},\"accumulate\":0,\"day\":5,\"hour\":7,\"minute\":50}"
+          }
+        }
+      ]
+    ],
+    "height": 9,
+    "width": 9,
+    "depth": 1
+  },
+  "gameTime": {
+    "previous": {
+      "data": "2024-05-01T21:51:42.043547100Z"
+    },
+    "accumulate": 5359,
+    "day": 5,
+    "hour": 7,
+    "minute": 50
+  },
+  "selectedItem": {
+    "type": "oogasalad.model.gameobject.Item",
+    "data": "{\"itemId\":\"Hoe\"}"
+  },
+  "energy": 20.0,
+  "money": 0,
+  "shop": {
+    "itemRotationSize": 3,
+    "possibleItems": [
+      {
+        "type": "oogasalad.model.gameobject.Item",
+        "data": "{\"itemId\":\"Wheat Seeds\"}"
+      },
+      {
+        "type": "oogasalad.model.gameobject.Item",
+        "data": "{\"itemId\":\"Hoe\"}"
+      },
+      {
+        "type": "oogasalad.model.gameobject.Item",
+        "data": "{\"itemId\":\"Pickaxe\"}"
+      },
+      {
+        "type": "oogasalad.model.gameobject.Item",
+        "data": "{\"itemId\":\"Scythe\"}"
+      },
+      {
+        "type": "oogasalad.model.gameobject.Item",
+        "data": "{\"itemId\":\"Cake\"}"
+      }
+    ],
+    "previousRotationTime": {
+      "type": "oogasalad.model.gameplay.GameTime",
+      "data": "{\"previous\":{\"data\":\"2024-05-01T21:44:50.466646900Z\"},\"accumulate\":0,\"day\":1,\"hour\":0,\"minute\":8}"
+    },
+    "shopRotationTime": 1440,
+    "itemRotation": [
+      [
+        {
+          "type": "oogasalad.model.gameobject.Item",
+          "data": "{\"itemId\":\"Wheat Seeds\"}"
+        },
+        10.0
+      ],
+      [
+        {
+          "type": "oogasalad.model.gameobject.Item",
+          "data": "{\"itemId\":\"Pickaxe\"}"
+        },
+        1000.0
+      ],
+      [
+        {
+          "type": "oogasalad.model.gameobject.Item",
+          "data": "{\"itemId\":\"Hoe\"}"
+        },
+        200.0
+      ]
+    ]
+  },
+  "bag": {
+    "items": [
+      [
+        {
+          "type": "oogasalad.model.gameobject.Item",
+          "data": "{\"itemId\":\"Scythe\"}"
+        },
+        1
+      ],
+      [
+        {
+          "type": "oogasalad.model.gameobject.Item",
+          "data": "{\"itemId\":\"Wheat Seeds\"}"
+        },
+        5
+      ],
+      [
+        {
+          "type": "oogasalad.model.gameobject.Item",
+          "data": "{\"itemId\":\"Hoe\"}"
+        },
+        1
+      ]
+    ]
+  },
+  "maxEnergy": 20.0
+}

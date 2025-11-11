@@ -1,0 +1,4 @@
+Nuevo, pink, oogasalad.view.start.PlayModeSplashScreen, makeConfigChooser
+Carga, lightblue, oogasalad.view.start.PlayModeSplashScreen, makeChooser
+Crear, pink, oogasalad.view.editor.EditorScene, start
+Atrás, lightblue, oogasalad.view.start.PlayModeSplashScreen, goBackScene

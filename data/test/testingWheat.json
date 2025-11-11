@@ -1,0 +1,25 @@
+{
+  "properties": {
+    "name": "wheat",
+    "type": "Structure",
+    "image": "/img/wheat.jpg",
+    "updatable": false,
+    "updateTime": 10,
+    "updateTransformation":  "wheatLevel2",
+    "expirable": false,
+    "expireTime": 0,
+    "expireTransformation": "",
+    "destructable": true
+  },
+  "listProperties": {},
+  "mapProperties": {
+    "interactTransformations": {
+      "validItem": ""
+    },
+    "interactDropMultipliers": {
+    },
+    "dropsOnDestruction": {
+      "seed": 2
+    }
+  }
+}

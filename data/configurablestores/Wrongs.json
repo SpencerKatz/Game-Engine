@@ -1,0 +1,629 @@
+{
+  "WrongA": {
+    "properties": {
+      "name": "WrongA",
+      "type": "Structure",
+      "image": "Wrong.png",
+      "updatable": "false",
+      "updateTime": "0",
+      "updateTransformation": "None",
+      "expirable": "false",
+      "expireTime": "0",
+      "expireTransformation": "None",
+      "destructable": "false"
+    },
+    "listProperties": {
+      "destructableTools": [
+      ]
+    },
+    "propertiesType": {},
+    "mapProperties": {
+      "interactTransformations": {
+        "Undo": "AStructure"
+      },
+      "interactDropMultipliers": {},
+      "dropsOnDestruction": {
+      }
+    }
+  },
+  "WrongB": {
+    "properties": {
+      "name": "WrongB",
+      "type": "Structure",
+      "image": "Wrong.png",
+      "updatable": "false",
+      "updateTime": "0",
+      "updateTransformation": "None",
+      "expirable": "false",
+      "expireTime": "0",
+      "expireTransformation": "None",
+      "destructable": "false"
+    },
+    "listProperties": {
+      "destructableTools": []
+    },
+    "mapProperties": {
+      "interactTransformations": {
+        "Undo": "BStructure"
+      },
+      "interactDropMultipliers": {},
+      "dropsOnDestruction": {}
+    }
+  },
+  "WrongC": {
+    "properties": {
+      "name": "WrongC",
+      "type": "Structure",
+      "image": "Wrong.png",
+      "updatable": "false",
+      "updateTime": "0",
+      "updateTransformation": "None",
+      "expirable": "false",
+      "expireTime": "0",
+      "expireTransformation": "None",
+      "destructable": "false"
+    },
+    "listProperties": {
+      "destructableTools": []
+    },
+    "mapProperties": {
+      "interactTransformations": {
+        "Undo": "CStructure"
+      },
+      "interactDropMultipliers": {},
+      "dropsOnDestruction": {}
+    }
+  },
+  "WrongD": {
+    "properties": {
+      "name": "WrongD",
+      "type": "Structure",
+      "image": "Wrong.png",
+      "updatable": "false",
+      "updateTime": "0",
+      "updateTransformation": "None",
+      "expirable": "false",
+      "expireTime": "0",
+      "expireTransformation": "None",
+      "destructable": "false"
+    },
+    "listProperties": {
+      "destructableTools": []
+    },
+    "mapProperties": {
+      "interactTransformations": {
+        "Undo": "DStructure"
+      },
+      "interactDropMultipliers": {},
+      "dropsOnDestruction": {}
+    }
+  },
+  "WrongE": {
+    "properties": {
+      "name": "WrongE",
+      "type": "Structure",
+      "image": "Wrong.png",
+      "updatable": "false",
+      "updateTime": "0",
+      "updateTransformation": "None",
+      "expirable": "false",
+      "expireTime": "0",
+      "expireTransformation": "None",
+      "destructable": "false"
+    },
+    "listProperties": {
+      "destructableTools": []
+    },
+    "mapProperties": {
+      "interactTransformations": {
+        "Undo": "EStructure"
+      },
+      "interactDropMultipliers": {},
+      "dropsOnDestruction": {}
+    }
+  },
+  "WrongF": {
+    "properties": {
+      "name": "WrongF",
+      "type": "Structure",
+      "image": "Wrong.png",
+      "updatable": "false",
+      "updateTime": "0",
+      "updateTransformation": "None",
+      "expirable": "false",
+      "expireTime": "0",
+      "expireTransformation": "None",
+      "destructable": "false"
+    },
+    "listProperties": {
+      "destructableTools": []
+    },
+    "mapProperties": {
+      "interactTransformations": {
+        "Undo": "FStructure"
+      },
+      "interactDropMultipliers": {},
+      "dropsOnDestruction": {}
+    }
+  },
+  "WrongG": {
+    "properties": {
+      "name": "WrongG",
+      "type": "Structure",
+      "image": "Wrong.png",
+      "updatable": "false",
+      "updateTime": "0",
+      "updateTransformation": "None",
+      "expirable": "false",
+      "expireTime": "0",
+      "expireTransformation": "None",
+      "destructable": "false"
+    },
+    "listProperties": {
+      "destructableTools": []
+    },
+    "mapProperties": {
+      "interactTransformations": {
+        "Undo": "GStructure"
+      },
+      "interactDropMultipliers": {},
+      "dropsOnDestruction": {}
+    }
+  },
+  "WrongH": {
+    "properties": {
+      "name": "WrongH",
+      "type": "Structure",
+      "image": "Wrong.png",
+      "updatable": "false",
+      "updateTime": "0",
+      "updateTransformation": "None",
+      "expirable": "false",
+      "expireTime": "0",
+      "expireTransformation": "None",
+      "destructable": "false"
+    },
+    "listProperties": {
+      "destructableTools": []
+    },
+    "mapProperties": {
+      "interactTransformations": {
+        "Undo": "HStructure"
+      },
+      "interactDropMultipliers": {},
+      "dropsOnDestruction": {}
+    }
+  },
+  "WrongI": {
+    "properties": {
+      "name": "WrongI",
+      "type": "Structure",
+      "image": "Wrong.png",
+      "updatable": "false",
+      "updateTime": "0",
+      "updateTransformation": "None",
+      "expirable": "false",
+      "expireTime": "0",
+      "expireTransformation": "None",
+      "destructable": "false"
+    },
+    "listProperties": {
+      "destructableTools": []
+    },
+    "mapProperties": {
+      "interactTransformations": {
+        "Undo": "IStructure"
+      },
+      "interactDrop Multipliers": {},
+      "dropsOnDestruction": {}
+    }
+  },
+  "WrongJ": {
+    "properties": {
+      "name": "WrongJ",
+      "type": "Structure",
+      "image": "Wrong.png",
+      "updatable": "false",
+      "updateTime": "0",
+      "updateTransformation": "None",
+      "expirable": "false",
+      "expireTime": "0",
+      "expireTransformation": "None",
+      "destructable": "false"
+    },
+    "listProperties": {
+      "destructableTools": []
+    },
+    "mapProperties": {
+      "interactTransformations": {
+        "Undo": "JStructure"
+      },
+      "interactDrop Multipliers": {},
+      "dropsOnDestruction": {}
+    }
+  },
+  "WrongK": {
+    "properties": {
+      "name": "WrongK",
+      "type": "Structure",
+      "image": "Wrong.png",
+      "updatable": "false",
+      "updateTime": "0",
+      "updateTransformation": "None",
+      "expirable": "false",
+      "expireTime": "0",
+      "expireTransformation": "None",
+      "destructable": "false"
+    },
+    "listProperties": {
+      "destructableTools": []
+    },
+    "mapProperties": {
+      "interactTransformations": {
+        "Undo": "KStructure"
+      },
+      "interactDrop Multipliers": {},
+      "dropsOnDestruction": {}
+    }
+  },
+  "WrongL": {
+    "properties": {
+      "name": "WrongL",
+      "type": "Structure",
+      "image": "Wrong.png",
+      "updatable": "false",
+      "updateTime": "0",
+      "updateTransformation": "None",
+      "expirable": "false",
+      "expireTime": "0",
+      "expireTransformation": "None",
+      "destructable": "false"
+    },
+    "listProperties": {
+      "destructableTools": []
+    },
+    "mapProperties": {
+      "interactTransformations": {
+        "Undo": "LStructure"
+      },
+      "interactDrop Multipliers": {},
+      "dropsOnDestruction": {}
+    }
+  },
+  "WrongM": {
+    "properties": {
+      "name": "WrongM",
+      "type": "Structure",
+      "image": "Wrong.png",
+      "updatable": "false",
+      "updateTime": "0",
+      "updateTransformation": "None",
+      "expirable": "false",
+      "expireTime": "0",
+      "expireTransformation": "None",
+      "destructable": "false"
+    },
+    "listProperties": {
+      "destructableTools": []
+    },
+    "mapProperties": {
+      "interactTransformations": {
+        "Undo": "MStructure"
+      },
+      "interactDrop Multipliers": {},
+      "dropsOnDestruction": {}
+    }
+  },
+  "WrongN": {
+    "properties": {
+      "name": "WrongN",
+      "type": "Structure",
+      "image": "Wrong.png",
+      "updatable": "false",
+      "updateTime": "0",
+      "updateTransformation": "None",
+      "expirable": "false",
+      "expireTime": "0",
+      "expireTransformation": "None",
+      "destructable": "false"
+    },
+    "listProperties": {
+      "destructableTools": []
+    },
+    "mapProperties": {
+      "interactTransformations": {
+        "Undo": "NStructure"
+      },
+      "interactDrop Multipliers": {},
+      "dropsOnDestruction": {}
+    }
+  },
+  "WrongO": {
+    "properties": {
+      "name": "WrongO",
+      "type": "Structure",
+      "image": "Wrong.png",
+      "updatable": "false",
+      "updateTime": "0",
+      "updateTransformation": "None",
+      "expirable": "false",
+      "expireTime": "0",
+      "expireTransformation": "None",
+      "destructable": "false"
+    },
+    "listProperties": {
+      "destructableTools": []
+    },
+    "mapProperties": {
+      "interactTransformations": {
+        "Undo": "OStructure"
+      },
+      "interactDrop Multipliers": {},
+      "dropsOnDestruction": {}
+    }
+  },
+  "WrongP": {
+    "properties": {
+      "name": "WrongP",
+      "type": "Structure",
+      "image": "Wrong.png",
+      "updatable": "false",
+      "updateTime": "0",
+      "updateTransformation": "None",
+      "expirable": "false",
+      "expireTime": "0",
+      "expireTransformation": "None",
+      "destructable": "false"
+    },
+    "listProperties": {
+      "destructableTools": []
+    },
+    "mapProperties": {
+      "interactTransformations": {
+        "Undo": "PStructure"
+      },
+      "interactDrop Multipliers": {},
+      "dropsOnDestruction": {}
+    }
+  },
+  "WrongQ": {
+    "properties": {
+      "name": "WrongQ",
+      "type": "Structure",
+      "image": "Wrong.png",
+      "updatable": "false",
+      "updateTime": "0",
+      "updateTransformation": "None",
+      "expirable": "false",
+      "expireTime": "0",
+      "expireTransformation": "None",
+      "destructable": "false"
+    },
+    "listProperties": {
+      "destructableTools": []
+    },
+    "mapProperties": {
+      "interactTransformations": {
+        "Undo": "QStructure"
+      },
+      "interactDrop Multipliers": {},
+      "dropsOnDestruction": {}
+    }
+  },
+  "WrongR": {
+    "properties": {
+      "name": "WrongR",
+      "type": "Structure",
+      "image": "Wrong.png",
+      "updatable": "false",
+      "updateTime": "0",
+      "updateTransformation": "None",
+      "expirable": "false",
+      "expireTime": "0",
+      "expireTransformation": "None",
+      "destructable": "false"
+    },
+    "listProperties": {
+      "destructableTools": []
+    },
+    "mapProperties": {
+      "interactTransformations": {
+        "Undo": "RStructure"
+      },
+      "interactDrop Multipliers": {},
+      "dropsOnDestruction": {}
+    }
+  },
+  "WrongS": {
+    "properties": {
+      "name": "WrongS",
+      "type": "Structure",
+      "image": "Wrong.png",
+      "updatable": "false",
+      "updateTime": "0",
+      "updateTransformation": "None",
+      "expirable": "false",
+      "expireTime": "0",
+      "expireTransformation": "None",
+      "destructable": "false"
+    },
+    "listProperties": {
+      "destructableTools": []
+    },
+    "mapProperties": {
+      "interactTransformations": {
+        "Undo": "SStructure"
+      },
+      "interactDrop Multipliers": {},
+      "dropsOnDestruction": {}
+    }
+  },
+  "WrongT": {
+    "properties": {
+      "name": "WrongT",
+      "type": "Structure",
+      "image": "Wrong.png",
+      "updatable": "false",
+      "updateTime": "0",
+      "updateTransformation": "None",
+      "expirable": "false",
+      "expireTime": "0",
+      "expireTransformation": "None",
+      "destructable": "false"
+    },
+    "listProperties": {
+      "destructableTools": []
+    },
+    "mapProperties": {
+      "interactTransformations": {
+        "Undo": "TStructure"
+      },
+      "interactDrop Multipliers": {},
+      "dropsOnDestruction": {}
+    }
+  },
+  "WrongU": {
+    "properties": {
+      "name": "WrongU",
+      "type": "Structure",
+      "image": "Wrong.png",
+      "updatable": "false",
+      "updateTime": "0",
+      "updateTransformation": "None",
+      "expirable": "false",
+      "expireTime": "0",
+      "expireTransformation": "None",
+      "destructable": "false"
+    },
+    "listProperties": {
+      "destructableTools": []
+    },
+    "mapProperties": {
+      "interactTransformations": {
+        "Undo": "UStructure"
+      },
+      "interactDrop Multipliers": {},
+      "dropsOnDestruction": {}
+    }
+  },
+  "WrongV": {
+    "properties": {
+      "name": "WrongV",
+      "type": "Structure",
+      "image": "Wrong.png",
+      "updatable": "false",
+      "updateTime": "0",
+      "updateTransformation": "None",
+      "expirable": "false",
+      "expireTime": "0",
+      "expireTransformation": "None",
+      "destructable": "false"
+    },
+    "listProperties": {
+      "destructableTools": []
+    },
+    "mapProperties": {
+      "interactTransformations": {
+        "Undo": "VStructure"
+      },
+      "interactDrop Multipliers": {},
+      "dropsOnDestruction": {}
+    }
+  },
+  "WrongW": {
+    "properties": {
+      "name": "WrongW",
+      "type": "Structure",
+      "image": "Wrong.png",
+      "updatable": "false",
+      "updateTime": "0",
+      "updateTransformation": "None",
+      "expirable": "false",
+      "expireTime": "0",
+      "expireTransformation": "None",
+      "destructable": "false"
+    },
+    "listProperties": {
+      "destructableTools": []
+    },
+    "mapProperties": {
+      "interactTransformations": {
+        "Undo": "WStructure"
+      },
+      "interactDrop Multipliers": {},
+      "dropsOnDestruction": {}
+    }
+  },
+  "WrongX": {
+    "properties": {
+      "name": "WrongX",
+      "type": "Structure",
+      "image": "Wrong.png",
+      "updatable": "false",
+      "updateTime": "0",
+      "updateTransformation": "None",
+      "expirable": "false",
+      "expireTime": "0",
+      "expireTransformation": "None",
+      "destructable": "false"
+    },
+    "listProperties": {
+      "destructableTools": []
+    },
+    "mapProperties": {
+      "interactTransformations": {
+        "Undo": "XStructure"
+      },
+      "interactDrop Multipliers": {},
+      "dropsOnDestruction": {}
+    }
+  },
+  "WrongY": {
+    "properties": {
+      "name": "WrongY",
+      "type": "Structure",
+      "image": "Wrong.png",
+      "updatable": "false",
+      "updateTime": "0",
+      "updateTransformation": "None",
+      "expirable": "false",
+      "expireTime": "0",
+      "expireTransformation": "None",
+      "destructable": "false"
+    },
+    "listProperties": {
+      "destructableTools": []
+    },
+    "mapProperties": {
+      "interactTransformations": {
+        "Undo": "YStructure"
+      },
+      "interactDrop Multipliers": {},
+      "dropsOnDestruction": {}
+    }
+  },
+  "WrongZ": {
+    "properties": {
+      "name": "WrongZ",
+      "type": "Structure",
+      "image": "Wrong.png",
+      "updatable": "false",
+      "updateTime": "0",
+      "updateTransformation": "None",
+      "expirable": "false",
+      "expireTime": "0",
+      "expireTransformation": "None",
+      "destructable": "false"
+    },
+    "listProperties": {
+      "destructableTools": []
+    },
+    "mapProperties": {
+      "interactTransformations": {
+        "Undo": "ZStructure"
+      },
+      "interactDrop Multipliers": {},
+      "dropsOnDestruction": {}
+    }
+  }
+}

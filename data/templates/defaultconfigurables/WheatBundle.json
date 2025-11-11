@@ -1,0 +1,16 @@
+{
+  "properties": {
+    "name": "Wheat Bundle",
+    "type": "Item",
+    "image": "wheat_item.png",
+    "worth": 25,
+    "consumable": false,
+    // amount to change energy after a successful interaction or use
+    // if not enough energy, then don't interact
+    "energyChange": 0,
+    // do not interact with the world, just consume and apply effects
+    "edible": false
+  },
+  "listProperties": {},
+  "mapProperties": {}
+}

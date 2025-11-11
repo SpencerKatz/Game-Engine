@@ -1,0 +1,15 @@
+{
+  "properties": {
+    "name": "ITEM",
+    "type": "Item",
+    "image": "",
+    "worth": "",
+    "consumable": "",
+    // amount to change energy after a successful interaction or use
+    "energyChange": "",
+    // do not interact with the world, just consume and apply effects
+    "edible": ""
+  },
+  "listProperties": {},
+  "mapProperties": {}
+}

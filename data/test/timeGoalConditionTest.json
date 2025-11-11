@@ -1,0 +1,60 @@
+{
+  "properties": {
+    "configName": "TIMEGOALTEST",
+    "author": "OOGAValley Devs",
+    "goalCondition": "time",
+    "doEnergy": true,
+    "doEnergyRecovery": true,
+    "doDeath": false,
+    "doExhaustedEnergyCollapse": true,
+    "energyAmount": 20,
+    "energyRecoveryRate": 720,
+    "exhaustedEnergyCollapseTimePenalty": 1440,
+    // currently the shop rotates every day
+    "shopRotationTime": 1440,
+    // how many items on sale at a time
+    "shopRotationSize": 3,
+    "wakeHour": 6,
+    "timeMultiplier": 1,
+    "timeGoal": 10080 // one week in game
+  },
+  "listProperties": {
+    // the possible items to go on rotation in the shop
+    "shopPossibleItems": [
+      "Wheat Seeds",
+      "Hoe",
+      "Pickaxe",
+      "Scythe"
+    ]
+  },
+  "mapProperties": {
+    "startingItems": {
+      "Hoe": 1,
+      "Scythe": 1,
+      "Wheat Seeds": 5
+    },
+    "collectGoal": {
+      "Wheat": 10
+    }
+  },
+  "propertiesType": {
+    "String": [
+      "configName",
+      "author",
+      "goalCondition"
+    ],
+    "boolean": [
+      "doEnergy",
+      "doEnergyRecovery",
+      "doDeath",
+      "doExhaustedEnergyCollapse"
+    ],
+    "int": [
+      "energyAmount",
+      "energyRecoveryRate",
+      "exhaustedEnergyCollapseTimePenalty",
+      "timeMultiplier",
+      "timeGoal"
+    ]
+  }
+}

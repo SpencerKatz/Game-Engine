@@ -1,0 +1,28 @@
+{
+  "components": [
+    {
+      "type": "ScrollPane",
+      "properties": {
+        "fitToWidth": true,
+        "fitToHeight": true,
+        "id": "thoughtsScrollPane"
+      }
+    },
+    {
+      "type": "Button",
+      "properties": {
+        "text": "Back",
+        "id": "backButton"
+      },
+      "event": "handleBack"
+    },
+    {
+      "type": "Button",
+      "properties": {
+        "text": "Send Thought",
+        "id": "sendThoughtButton"
+      },
+      "event": "openSendThoughtPopup"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+This is the Map Editor! You can use it to edit the
+game map.
+
+
+
+-You can use the \"Change Grid Size\" button
+to set the grid to a specific size
+
+-To add or remove a row or column from a specific
+side, click the box that appears when your mouse
+hovers over edges of the grid
+(Click Green to Grow and Red to Shrink)
+
+-Select Tiles from the Selector at the bottom of the
+Map Editor and then click a grid cell to place the tile
+
+
+-Once a tile is placed, you can place nature, plants,
+and buildings on the tile
+
+-To remove tiles, nature, plants, and buildings from a
+cell, right click cell
+
+-Running your mouse over a cell will display that cell's
+location and any selectables placed in the cell
+
+Have Fun!

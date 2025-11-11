@@ -1,0 +1,32 @@
+// Planted wheat that grows into mature wheat in 2 in-game hours.
+// Doesn't drop anything if destroyed
+{
+  "properties": {
+    "name": "Germinating Wheat",
+    "type": "Structure",
+    "image": "germinating_wheat.png",
+    "updatable": true,
+    "updateTime": 120,
+    "updateTransformation": "Wheat",
+    "expirable": false,
+    "expireTime": 0,
+    // or null
+    "expireTransformation": "",
+    // STRUCTURE ONLY
+    "destructable": true
+  },
+  "listProperties": {
+      // if empty, then can be destroyed by any item, otherwise only items listed can destroy this structure
+      "destructableTools": [
+      ]
+  },
+  "mapProperties": {
+    "interactTransformations": {
+    },
+    "interactDropMultipliers": {
+    },
+    // STRUCTURE ONLY
+    "dropsOnDestruction": {
+    }
+  }
+}

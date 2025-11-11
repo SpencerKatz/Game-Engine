@@ -1,0 +1,59 @@
+{
+  "components": [
+    {
+      "type": "Label",
+      "properties": {
+        "text": "Login",
+        "style": "-fx-font-size: 24px;"
+      }
+    },
+    {
+      "type": "Label",
+      "properties": {
+        "text": "Username:"
+      }
+    },
+    {
+      "type": "TextField",
+      "properties": {
+        "id": "usernameField"
+      }
+    },
+    {
+      "type": "Label",
+      "properties": {
+        "text": "Password:"
+      }
+    },
+    {
+      "type": "PasswordField",
+      "properties": {
+        "id": "passwordField"
+      }
+    },
+    {
+      "type": "Button",
+      "properties": {
+        "text": "Submit",
+        "id": "submitButton"
+      },
+      "event": "submit"
+    },
+    {
+      "type": "Button",
+      "properties": {
+        "text": "Register",
+        "id": "registerButton"
+      },
+      "event": "register"
+    },
+    {
+      "type": "Button",
+      "properties": {
+        "text": "back",
+        "id": "backButton"
+      },
+      "event": "back"
+    }
+  ]
+}

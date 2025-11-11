@@ -1,0 +1,313 @@
+/* styles.css */
+@font-face {
+  font-family: "Press Start 2P";
+  src: url("PressStart2P-Regular.ttf");
+}
+
+.button {
+  -fx-font-family: "Press Start 2P";
+}
+
+.title-label {
+  -fx-font-size: 72px;
+  -fx-font-family: "Press Start 2P";
+  -fx-font-weight: bold;
+  -fx-text-fill: green; /* Text color */
+
+  /* Box shadow */
+  -fx-effect: dropshadow(gaussian, rgba(0, 0, 0, 0.5), 15, 0, 3, 3);
+}
+
+.map-label {
+  -fx-font-size: 40px;
+  -fx-font-family: "Press Start 2P";
+  -fx-font-weight: bold;
+  -fx-text-fill: black;
+}
+
+.editor-label {
+  -fx-font-size: 40px;
+  -fx-font-family: "Press Start 2P";
+  -fx-font-weight: bold;
+  -fx-text-fill: black;
+}
+.gameObject-editor-title{
+  -fx-font-size: 20px;
+  -fx-font-family: "Press Start 2P";
+  -fx-font-weight: bold;
+  -fx-text-fill: black;
+}
+
+.selector-title {
+  -fx-font-size: 15px;
+  -fx-font-family: "Press Start 2P";
+  -fx-text-fill: black;
+}
+
+.object-name{
+  -fx-font-size: 25px;
+  -fx-font-family: "Press Start 2P";
+  -fx-text-fill: black;
+}
+
+.map-properties-name{
+  -fx-font-size: 20px;
+  -fx-font-family: "fantasy";
+  -fx-text-fill: black;
+}
+
+.object-property{
+  -fx-font-size: 15px;
+  -fx-font-family: "fantasy";
+  -fx-text-fill: black;
+}
+
+.rule {
+  -fx-font-size: 15px;
+  -fx-font-family: "fantasy";
+  -fx-text-fill: black;
+}
+
+.top-box {
+  -fx-alignment: center;
+  -fx-spacing: 10;
+}
+
+.bottom-box {
+  -fx-alignment: center;
+  -fx-spacing: 10;
+}
+
+.land-grid-pane {
+  -fx-padding: 10px;
+  -fx-hgap: 1;
+  -fx-vgap: 1;
+}
+
+.tool-grid-pane {
+  -fx-padding: 10px;
+  -fx-border-color: black;
+  -fx-hgap: 1;
+  -fx-vgap: 1;
+}
+
+
+.item-grid-pane {
+  -fx-padding: 10px;
+  -fx-border-color: black;
+  -fx-hgap: 1;
+  -fx-vgap: 1;
+}
+
+
+.side-box {
+  -fx-pref-width: 40;
+}
+
+.play-top-label {
+  -fx-font-size: 8px;
+  -fx-font-family: "Press Start 2P";
+  -fx-text-fill: white;
+}
+
+.shop-money-label {
+  -fx-font-size: 10px;
+  -fx-font-family: "Press Start 2P";
+  -fx-text-fill: white;
+}
+
+.playing-item-num-label {
+  -fx-font-size: 3px;
+  -fx-font-family: "Press Start 2P";
+  -fx-text-fill: white;
+}
+
+.shop-price-label {
+  -fx-font-size: 9px;
+  -fx-font-family: "Press Start 2P";
+  -fx-text-fill: white;
+}
+
+.item-num-label {
+  -fx-font-size: 10px;
+  -fx-font-family: "Press Start 2P";
+  -fx-text-fill: black;
+}
+
+#pop-up-label {
+  -fx-font-size: 13px;
+  -fx-font-family: "Press Start 2P";
+  -fx-text-fill: Black;
+}
+
+#shopButton {
+  -fx-background-image: url("img/shop/shopping-cart.png");
+  -fx-background-size: cover;
+  -fx-background-repeat: no-repeat;
+  -fx-background-position: center;
+  -fx-min-width: 30px;
+  -fx-min-height: 30px;
+  -fx-max-width: 40px;
+  -fx-max-height: 30px;
+}
+
+#shopAddButton {
+  -fx-background-image: url("img/shop/add-button.png");
+  -fx-background-size: cover;
+  -fx-background-repeat: no-repeat;
+  -fx-background-position: center;
+  -fx-min-width: 30px;
+  -fx-min-height: 30px;
+  -fx-max-width: 30px;
+  -fx-max-height: 30px;
+}
+
+.backButton {
+  -fx-background-image: url("img/shop/back.png");
+  -fx-background-size: cover;
+  -fx-background-repeat: no-repeat;
+  -fx-background-position: center;
+  -fx-min-width: 30px;
+  -fx-min-height: 30px;
+  -fx-max-width: 30px;
+  -fx-max-height: 30px;
+}
+
+.shop-boarder-pane {
+  -fx-background-image: url('img/shop/background.png');
+  -fx-background-size: cover;
+}
+
+.sellButton {
+  -fx-background-image: url('img/shop/buy-button.png');
+  -fx-background-size: cover;
+  -fx-font-family: "Press Start 2P";
+  -fx-font-size: 14px;
+  -fx-text-fill: white;
+}
+
+.left-page-change-button {
+  -fx-background-image: url("img/shop/left-arrow.png");
+  -fx-background-size: cover;
+  -fx-background-repeat: no-repeat;
+  -fx-background-position: center;
+  -fx-min-width: 30px;
+  -fx-min-height: 30px;
+  -fx-max-width: 30px;
+  -fx-max-height: 30px;
+}
+
+.right-page-change-button {
+  -fx-background-image: url("img/shop/right-arrow.png");
+  -fx-background-size: cover;
+  -fx-background-repeat: no-repeat;
+  -fx-background-position: center;
+  -fx-min-width: 30px;
+  -fx-min-height: 30px;
+  -fx-max-width: 30px;
+  -fx-max-height: 30px;
+}
+
+.shop-stack-pane {
+  -fx-min-width: 300px;
+  -fx-min-height: 300px;
+  -fx-background-image: url('img/shop/buy-background.png');
+  -fx-background-size: cover;
+}
+
+.playing-root {
+  -fx-background-image: url('img/shop/background.png');
+  -fx-background-size: cover;
+  -fx-background-repeat: no-repeat;
+}
+
+#yes-button {
+  -fx-background-image: url("img/pop-up/Button-Yes.png");
+  -fx-background-size: cover;
+  -fx-background-repeat: no-repeat;
+  -fx-background-position: center;
+  -fx-min-width: 80px;
+  -fx-min-height: 30px;
+  -fx-max-width: 80px;
+  -fx-max-height: 30px;
+}
+
+#yes-button .text {
+  -fx-font-size: 10px;
+  -fx-font-family: "Press Start 2P";
+  -fx-fill: white;
+}
+
+#no-button {
+  -fx-background-image: url("img/pop-up/Button-No.png");
+  -fx-background-size: cover;
+  -fx-background-repeat: no-repeat;
+  -fx-background-position: center;
+  -fx-min-width: 80px;
+  -fx-min-height: 30px;
+  -fx-max-width: 80px;
+  -fx-max-height: 30px;
+}
+
+#no-button .text {
+  -fx-font-size: 10px;
+  -fx-font-family: "Press Start 2P";
+  -fx-fill: white;
+}
+
+#end-scoreLabel {
+  -fx-font-family: "Press Start 2P";
+  -fx-text-fill: black;
+  -fx-font-size: 10px;
+}
+
+#end-back-to-menu-button {
+  -fx-background-image: url("img/end/back-to-main-page.png");
+  -fx-background-size: cover;
+  -fx-background-repeat: no-repeat;
+  -fx-background-position: center;
+  -fx-min-width: 50px;
+  -fx-min-height: 50px;
+  -fx-max-width: 50px;
+  -fx-max-height: 50px;
+}
+
+#end-next-button {
+  -fx-background-image: url("img/end/next.png");
+  -fx-background-size: cover;
+  -fx-background-repeat: no-repeat;
+  -fx-background-position: center;
+  -fx-min-width: 50px;
+  -fx-min-height: 50px;
+  -fx-max-width: 50px;
+  -fx-max-height: 50px;
+}
+
+
+#end-restart-button {
+  -fx-background-image: url("img/end/restart.png");
+  -fx-background-size: cover;
+  -fx-background-repeat: no-repeat;
+  -fx-background-position: center;
+  -fx-min-width: 50px;
+  -fx-min-height: 50px;
+  -fx-max-width: 50px;
+  -fx-max-height: 50px;
+}
+
+#help-button {
+  -fx-background-color: transparent;
+  -fx-background-image: url('img/playing/help.png');
+  -fx-background-size: 30px 30px;
+  -fx-background-repeat: no-repeat;
+  -fx-background-position: center;
+  -fx-min-width: 30px;
+  -fx-min-height: 30px;
+  -fx-max-width: 30px;
+  -fx-max-height: 30px;
+}
+
+.list-view {
+  -fx-font-family: "Press Start 2P";
+  -fx-font-size: 8px;
+}

@@ -1,0 +1,394 @@
+{
+  "ATool": {
+    "properties": {
+      "name": "ATool",
+      "type": "Item",
+      "image": "A.png",
+      "worth": "0",
+      "consumable": "false",
+      "energyChange": "0",
+      "edible": "false"
+    },
+    "listProperties": {},
+    "propertiesType": {},
+    "mapProperties": {}
+  },
+  "BTool": {
+    "properties": {
+      "name": "BTool",
+      "type": "Item",
+      "image": "B.png",
+      "worth": "0",
+      "consumable": "false",
+      "energyChange": "0",
+      "edible": "false"
+    },
+    "listProperties": {},
+    "propertiesType": {},
+    "mapProperties": {}
+  },
+  "CTool": {
+    "properties": {
+      "name": "CTool",
+      "type": "Item",
+      "image": "C.png",
+      "worth": "0",
+      "consumable": "false",
+      "energyChange": "0",
+      "edible": "false"
+    },
+    "listProperties": {},
+    "propertiesType": {},
+    "mapProperties": {}
+  },
+  "DTool": {
+    "properties": {
+      "name": "DTool",
+      "type": "Item",
+      "image": "D.png",
+      "worth": "0",
+      "consumable": "false",
+      "energyChange": "0",
+      "edible": "false"
+    },
+    "listProperties": {},
+    "propertiesType": {},
+    "mapProperties": {}
+  },
+  "ETool": {
+    "properties": {
+      "name": "ETool",
+      "type": "Item",
+      "image": "E.png",
+      "worth": "0",
+      "consumable": "false",
+      "energyChange": "0",
+      "edible": "false"
+    },
+    "listProperties": {},
+    "propertiesType": {},
+    "mapProperties": {}
+  },
+  "FTool": {
+    "properties": {
+      "name": "FTool",
+      "type": "Item",
+      "image": "F.png",
+      "worth": "0",
+      "consumable": "false",
+      "energyChange": "0",
+      "edible": "false"
+    },
+    "listProperties": {},
+    "propertiesType": {},
+    "mapProperties": {}
+  },
+  "GTool": {
+    "properties": {
+      "name": "GTool",
+      "type": "Item",
+      "image": "G.png",
+      "worth": "0",
+      "consumable": "false",
+      "energyChange": "0",
+      "edible": "false"
+    },
+    "listProperties": {},
+    "propertiesType": {},
+    "mapProperties": {}
+  },
+  "HTool": {
+    "properties": {
+      "name": "HTool",
+      "type": "Item",
+      "image": "H.png",
+      "worth": "0",
+      "consumable": "false",
+      "energyChange": "0",
+      "edible": "false"
+    },
+    "listProperties": {},
+    "propertiesType": {},
+    "mapProperties": {}
+  },
+  "ITool": {
+    "properties": {
+      "name": "ITool",
+      "type": "Item",
+      "image": "I.png",
+      "worth": "0",
+      "consumable": "false",
+      "energyChange": "0",
+      "edible": "false"
+    },
+    "listProperties": {},
+    "propertiesType": {},
+    "mapProperties": {}
+  },
+  "JTool": {
+    "properties": {
+      "name": "JTool",
+      "type": "Item",
+      "image": "J.png",
+      "worth": "0",
+      "consumable": "false",
+      "energyChange": "0",
+      "edible": "false"
+    },
+    "listProperties": {},
+    "propertiesType": {},
+    "mapProperties": {}
+  },
+  "KTool": {
+    "properties": {
+      "name": "KTool",
+      "type": "Item",
+      "image": "K.png",
+      "worth": "0",
+      "consumable": "false",
+      "energyChange": "0",
+      "edible": "false"
+    },
+    "listProperties": {},
+    "propertiesType": {},
+    "mapProperties": {}
+  },
+  "LTool": {
+    "properties": {
+      "name": "LTool",
+      "type": "Item",
+      "image": "L.png",
+      "worth": "0",
+      "consumable": "false",
+      "energyChange": "0",
+      "edible": "false"
+    },
+    "listProperties": {},
+    "propertiesType": {},
+    "mapProperties": {}
+  },
+  "MTool": {
+    "properties": {
+      "name": "MTool",
+      "type": "Item",
+      "image": "M.png",
+      "worth": "0",
+      "consumable": "false",
+      "energyChange": "0",
+      "edible": "false"
+    },
+    "listProperties": {},
+    "propertiesType": {},
+    "mapProperties": {}
+  },
+  "NTool": {
+    "properties": {
+      "name": "NTool",
+      "type": "Item",
+      "image": "N.png",
+      "worth": "0",
+      "consumable": "false",
+      "energyChange": "0",
+      "edible": "false"
+    },
+    "listProperties": {},
+    "propertiesType": {},
+    "mapProperties": {}
+  },
+  "OTool": {
+    "properties": {
+      "name": "OTool",
+      "type": "Item",
+      "image": "O.png",
+      "worth": "0",
+      "consumable": "false",
+      "energyChange": "0",
+      "edible": "false"
+    },
+    "listProperties": {},
+    "propertiesType": {},
+    "mapProperties": {}
+  },
+  "PTool": {
+    "properties": {
+      "name": "PTool",
+      "type": "Item",
+      "image": "P.png",
+      "worth": "0",
+      "consumable": "false",
+      "energyChange": "0",
+      "edible": "false"
+    },
+    "listProperties": {},
+    "propertiesType": {},
+    "mapProperties": {}
+  },
+  "QTool": {
+    "properties": {
+      "name": "QTool",
+      "type": "Item",
+      "image": "Q.png",
+      "worth": "0",
+      "consumable": "false",
+      "energyChange": "0",
+      "edible": "false"
+    },
+    "listProperties": {},
+    "propertiesType": {},
+    "mapProperties": {}
+  },
+  "RTool": {
+    "properties": {
+      "name": "RTool",
+      "type": "Item",
+      "image": "R.png",
+      "worth": "0",
+      "consumable": "false",
+      "energyChange": "0",
+      "edible": "false"
+    },
+    "listProperties": {},
+    "propertiesType": {},
+    "mapProperties": {}
+  },
+  "STool": {
+    "properties": {
+      "name": "STool",
+      "type": "Item",
+      "image": "S.png",
+      "worth": "0",
+      "consumable": "false",
+      "energyChange": "0",
+      "edible": "false"
+    },
+    "listProperties": {},
+    "propertiesType": {},
+    "mapProperties": {}
+  },
+  "TTool": {
+    "properties": {
+      "name": "TTool",
+      "type": "Item",
+      "image": "T.png",
+      "worth": "0",
+      "consumable": "false",
+      "energyChange": "0",
+      "edible": "false"
+    },
+    "listProperties": {},
+    "propertiesType": {},
+    "mapProperties": {}
+  },
+  "UTool": {
+    "properties": {
+      "name": "UTool",
+      "type": "Item",
+      "image": "U.png",
+      "worth": "0",
+      "consumable": "false",
+      "energyChange": "0",
+      "edible": "false"
+    },
+    "listProperties": {},
+    "propertiesType": {},
+    "mapProperties": {}
+  },
+  "VTool": {
+    "properties": {
+      "name": "VTool",
+      "type": "Item",
+      "image": "V.png",
+      "worth": "0",
+      "consumable": "false",
+      "energyChange": "0",
+      "edible": "false"
+    },
+    "listProperties": {},
+    "propertiesType": {},
+    "mapProperties": {}
+  },
+  "WTool": {
+    "properties": {
+      "name": "WTool",
+      "type": "Item",
+      "image": "W.png",
+      "worth": "0",
+      "consumable": "false",
+      "energyChange": "0",
+      "edible": "false"
+    },
+    "listProperties": {},
+    "propertiesType": {},
+    "mapProperties": {}
+  },
+  "XTool": {
+    "properties": {
+      "name": "XTool",
+      "type": "Item",
+      "image": "X.png",
+      "worth": "0",
+      "consumable": "false",
+      "energyChange": "0",
+      "edible": "false"
+    },
+    "listProperties": {},
+    "propertiesType": {},
+    "mapProperties": {}
+  },
+  "YTool": {
+    "properties": {
+      "name": "YTool",
+      "type": "Item",
+      "image": "Y.png",
+      "worth": "0",
+      "consumable": "false",
+      "energyChange": "0",
+      "edible": "false"
+    },
+    "listProperties": {},
+    "propertiesType": {},
+    "mapProperties": {}
+  },
+  "ZTool": {
+    "properties": {
+      "name": "ZTool",
+      "type": "Item",
+      "image": "Z.png",
+      "worth": "0",
+      "consumable": "false",
+      "energyChange": "0",
+      "edible": "false"
+    },
+    "listProperties": {},
+    "propertiesType": {},
+    "mapProperties": {}
+  },
+  "Undo": {
+    "properties": {
+      "name": "Undo",
+      "type": "Item",
+      "image": "Undo.png",
+      "worth": "0",
+      "consumable": "false",
+      "energyChange": "1",
+      "edible": "false"
+    },
+    "listProperties": {},
+    "propertiesType": {},
+    "mapProperties": {}
+  },
+  "Correct": {
+    "properties": {
+      "name": "Correct",
+      "type": "Item",
+      "image": "Correct.png",
+      "worth": "10",
+      "consumable": "false",
+      "energyChange": "0",
+      "edible": "false"
+    },
+    "listProperties": {},
+    "propertiesType": {},
+    "mapProperties": {}
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "properties": {
+    "name": "grass_land",
+    "type": "Land",
+    "image": "/img/grass.jpg",
+    "updatable": true,
+    "updateTime": 10,
+    "updateTransformation": "tilled_grass",
+    "expirable": false,
+    "expireTime": 0,
+    "expireTransformation": ""
+  },
+  "listProperties": {},
+  "mapProperties": {
+    "interactTransformations": {
+      "validItem": "tilled_grass"
+    },
+    "interactDropMultipliers": {
+    },
+    "plantableSeeds": {
+      "wheat_seed": "wheat"
+    }
+  }
+}

@@ -1,0 +1,29 @@
+/* styles.css */
+.root {
+  -fx-background-color: green;
+}
+
+@font-face {
+  font-family: "Press Start 2P";
+  src: url("PressStart2P-Regular.ttf");
+}
+
+
+.button {
+  -fx-font-size: 12px;
+  -fx-font-family: "Press Start 2P";
+}
+
+.title-label {
+  -fx-font-size: 72px;
+  -fx-font-family: "Press Start 2P";
+  -fx-font-weight: bold;
+  -fx-text-fill: pink; /* Text color */
+
+  /* Box shadow */
+  -fx-effect: dropshadow(gaussian, rgba(0, 0, 0, 0.5), 15, 0, 3, 3);
+}
+
+
+
+

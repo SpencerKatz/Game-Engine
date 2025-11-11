@@ -1,0 +1,27 @@
+{
+  "components": [
+    {
+      "type": "TextArea",
+      "properties": {
+        "id": "thoughtTextArea",
+        "promptText": "Enter your thoughts here..."
+      }
+    },
+    {
+      "type": "Button",
+      "properties": {
+        "text": "Submit",
+        "id": "submitButton"
+      },
+      "event": "submitThought"
+    },
+    {
+      "type": "Button",
+      "properties": {
+        "text": "Back",
+        "id": "backButton"
+      },
+      "event": "closePopup"
+    }
+  ]
+}

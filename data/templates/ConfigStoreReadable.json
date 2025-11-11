@@ -1,0 +1,63 @@
+{
+  "configurables": {
+    "Dirt":
+    {
+      "properties": {
+        "name": "Dirt",
+        "type": "Land",
+        "image": "dirt.jpg",
+        "updatable": false,
+        "updateTime": 0,
+        "updateTransformation": "",
+        "expirable": false,
+        "expireTime": 0,
+        "expireTransformation": ""
+      },
+      "listProperties": {},
+      "mapProperties": {
+        "interactTransformations": {
+        },
+        "interactDropMultipliers": {
+        },
+        "plantableSeeds": {
+          "Wheat Seeds": "wheat"
+        }
+      }
+    },
+    "Wheat": {
+      "properties": {
+        "name": "Wheat",
+        "type": "Structure",
+        "image": "wheat.png",
+        "updatable": false,
+        "updateTime": 0,
+        "updateTransformation": "",
+        "expirable": true,
+        "expireTime": 120,
+        "expireTransformation": "",
+        "destructable": true
+      },
+      "listProperties": {},
+      "mapProperties": {
+        "interactTransformations": {
+        },
+        "interactDropMultipliers": {
+        },
+        "dropsOnDestruction": {
+          "Wheat Seeds": 4,
+          "wheat_item": 1
+        }
+      }
+    },
+    "Wheat Seeds": {
+      "properties": {
+        "name": "Wheat Seeds",
+        "type": "Item",
+        "image": "wheat_seeds.png",
+        "worth": "10"
+      },
+      "listProperties": {},
+      "mapProperties": {}
+    }
+  }
+}

@@ -1,0 +1,31 @@
+// Just a piece of grass that does nothing and rops nothing
+{
+  "properties": {
+    "name": "Foliage",
+    "type": "Structure",
+    "image": "foliage.png",
+    "updatable": false,
+    "updateTime": 0,
+    "updateTransformation": "",
+    "expirable": false,
+    "expireTime": 0,
+    // or null
+    "expireTransformation": "",
+    // STRUCTURE ONLY
+    "destructable": true
+  },
+  "listProperties": {
+    // if empty, then can be destroyed by any item, otherwise only items listed can destroy this structure
+    "destructableTools": [
+    ]
+  },
+  "mapProperties": {
+    "interactTransformations": {
+    },
+    "interactDropMultipliers": {
+    },
+    // STRUCTURE ONLY
+    "dropsOnDestruction": {
+    }
+  }
+}

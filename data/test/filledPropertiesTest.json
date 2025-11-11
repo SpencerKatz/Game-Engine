@@ -1,0 +1,31 @@
+{
+  "properties": {
+    "key2": "123",
+    "key3": "false",
+    "key4": "True",
+    "key1": "val1"
+  },
+  "listProperties": {
+    "key1": [
+      "val1",
+      "val2",
+      "val3"
+    ],
+    "key2": [
+      "1",
+      "2",
+      "3"
+    ]
+  },
+  "mapProperties": {
+    "key1": {
+      "key2": "123",
+      "key3": "false",
+      "key4": "True",
+      "key1": "val1"
+    },
+    "key2": {
+      "k1": "2"
+    }
+  }
+}

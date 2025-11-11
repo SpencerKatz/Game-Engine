@@ -1,0 +1,159 @@
+{
+  "configurables": {
+    "COLLECTABLE": {
+      "properties": {
+        "name": "COLLECTABLE",
+        "type": "Collectable",
+        "image": "",
+        "updatable": "false",
+        "updateTime": "0",
+        "updateTransformation": "",
+        "expirable": "true",
+        "expireTime": "1440",
+        "expireTransformation": ""
+      },
+      "listProperties": {},
+      "propertiesType": {},
+      "mapProperties": {
+        "interactTransformations": {},
+        "interactDropMultipliers": {}
+      }
+    },
+    "Torpedo": {
+      "properties": {
+        "name": "Torpedo",
+        "type": "Item",
+        "image": "torpedo.jpg",
+        "worth": "0",
+        "consumable": "false",
+        "energyChange": "0",
+        "edible": "false"
+      },
+      "listProperties": {},
+      "propertiesType": {},
+      "mapProperties": {}
+    },
+    "Wall": {
+      "properties": {
+        "name": "Wall",
+        "type": "Structure",
+        "image": "blacksquare.png",
+        "updatable": "false",
+        "updateTime": "0",
+        "updateTransformation": "",
+        "expirable": "false",
+        "expireTime": "0",
+        "expireTransformation": "",
+        "destructable": "false"
+      },
+      "listProperties": {
+        "destructableTools": []
+      },
+      "propertiesType": {},
+      "mapProperties": {
+        "interactTransformations": {},
+        "interactDropMultipliers": {},
+        "dropsOnDestruction": {}
+      }
+    },
+    "Water": {
+      "properties": {
+        "name": "Water",
+        "type": "Structure",
+        "image": "pixelwater.png",
+        "updatable": "false",
+        "updateTime": "",
+        "updateTransformation": "",
+        "expirable": "false",
+        "expireTime": "",
+        "expireTransformation": "",
+        "destructable": "true"
+      },
+      "listProperties": {
+        "destructableTools": [
+          "Torpedo"
+        ]
+      },
+      "propertiesType": {},
+      "mapProperties": {
+        "interactTransformations": {},
+        "interactDropMultipliers": {},
+        "dropsOnDestruction": {}
+      }
+    },
+    "Place me over all your tiles": {
+      "properties": {
+        "name": "Place me over all your tiles",
+        "type": "Item",
+        "image": "pixelwater.png",
+        "worth": "-100",
+        "consumable": "true",
+        "energyChange": "0",
+        "edible": "false"
+      },
+      "listProperties": {},
+      "propertiesType": {},
+      "mapProperties": {}
+    },
+    "Hide me on your side of the board": {
+      "properties": {
+        "name": "Hide me on your side of the board",
+        "type": "Item",
+        "image": "bigo.jpg",
+        "worth": "-100",
+        "consumable": "true",
+        "energyChange": "0",
+        "edible": "false"
+      },
+      "listProperties": {},
+      "propertiesType": {},
+      "mapProperties": {}
+    },
+    "Ground": {
+      "properties": {
+        "name": "Ground",
+        "type": "Land",
+        "image": "whitesquare.jpg",
+        "updatable": "false",
+        "updateTime": "0",
+        "updateTransformation": "",
+        "expirable": "false",
+        "expireTime": "",
+        "expireTransformation": ""
+      },
+      "listProperties": {},
+      "propertiesType": {},
+      "mapProperties": {
+        "interactTransformations": {
+          "Hide me on your side of the board": "BigO"
+        },
+        "interactDropMultipliers": {},
+        "plantableSeeds": {
+          "Place me over all your tiles": "Water"
+        }
+      }
+    },
+    "BigO": {
+      "properties": {
+        "name": "BigO",
+        "type": "Land",
+        "image": "bigo.jpg",
+        "updatable": "false",
+        "updateTime": "",
+        "updateTransformation": "",
+        "expirable": "false",
+        "expireTime": "",
+        "expireTransformation": ""
+      },
+      "listProperties": {},
+      "propertiesType": {},
+      "mapProperties": {
+        "interactTransformations": {},
+        "interactDropMultipliers": {},
+        "plantableSeeds": {
+          "Place me over all your tiles": "Water"
+        }
+      }
+    }
+  }
+}

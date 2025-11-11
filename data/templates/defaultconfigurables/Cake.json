@@ -1,0 +1,17 @@
+{
+  "properties": {
+    "name": "Cake",
+    "type": "Item",
+    "image": "cake.png",
+    // sell price
+    "worth": 100,
+    // deducts an item from the inventory after being used
+    "consumable": true,
+    // amount to change energy after a successful interaction or use
+    "energyChange": 100,
+    // do not interact with the world, just consume and apply effects
+    "edible": true
+  },
+  "listProperties": {},
+  "mapProperties": {}
+}

@@ -1,0 +1,25 @@
+{
+  "properties": {
+    "name": "tilled_grass",
+    "type": "Structure",
+    "image": "/img/grass.jpg",
+    "updatable": true,
+    "updateTime": 1,
+    "updateTransformation":  "differentThing",
+    "expirable": false,
+    "expireTime": 120,
+    "expireTransformation": "",
+    "destructable": true
+  },
+  "listProperties": {},
+  "mapProperties": {
+    "interactTransformations": {
+      "validItem": "tilled_grass"
+    },
+    "interactDropMultipliers": {
+    },
+    "dropsOnDestruction": {
+      "seed": 2
+    }
+  }
+}

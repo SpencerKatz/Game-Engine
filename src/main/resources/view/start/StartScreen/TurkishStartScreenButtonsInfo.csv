@@ -1,0 +1,3 @@
+Yarat, lightblue, oogasalad.view.editor.EditorScene, start
+Oyna, lightgreen, oogasalad.view.start.PlayModeSplashScreen, open
+Dili Seç, yellow, oogasalad.view.start.StartScreen, openLanguageDialogBox

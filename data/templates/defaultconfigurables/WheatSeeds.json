@@ -1,0 +1,16 @@
+{
+  "properties": {
+    "name": "Wheat Seeds",
+    "type": "Item",
+    "image": "wheat_seeds.png",
+    "worth": 5,
+    "consumable": true,
+    // amount to change energy after a successful interaction or use
+    // if not enough energy, then don't interact
+    "energyChange": -1,
+    // do not interact with the world, just consume and apply effects
+    "edible": false
+  },
+  "listProperties": {},
+  "mapProperties": {}
+}

@@ -1,0 +1,574 @@
+{
+  "LetterA": {
+    "properties": {
+      "name": "LetterA",
+      "type": "Land",
+      "image": "A.png",
+      "updatable": "false",
+      "updateTime": "0",
+      "updateTransformation": "",
+      "expirable": "false",
+      "expireTime": "0",
+      "expireTransformation": ""
+    },
+    "listProperties": {},
+    "propertiesType": {},
+    "mapProperties": {
+      "interactTransformations": {
+      },
+      "interactDropMultipliers": {},
+      "plantableSeeds": {
+      }
+    }
+  },
+  "LetterB": {
+    "properties": {
+      "name": "LetterB",
+      "type": "Land",
+      "image": "B.png",
+      "updatable": "false",
+      "updateTime": "0",
+      "updateTransformation": "",
+      "expirable": "false",
+      "expireTime": "0",
+      "expireTransformation": ""
+    },
+    "listProperties": {},
+    "propertiesType": {},
+    "mapProperties": {
+      "interactTransformations": {
+      },
+      "interactDropMultipliers": {},
+      "plantableSeeds": {
+      }
+    }
+  },
+  "LetterC": {
+    "properties": {
+      "name": "LetterC",
+      "type": "Land",
+      "image": "C.png",
+      "updatable": "false",
+      "updateTime": "0",
+      "updateTransformation": "",
+      "expirable": "false",
+      "expireTime": "0",
+      "expireTransformation": ""
+    },
+    "listProperties": {},
+    "propertiesType": {},
+    "mapProperties": {
+      "interactTransformations": {
+      },
+      "interactDropMultipliers": {},
+      "plantableSeeds": {
+      }
+    }
+  },
+  "LetterD": {
+    "properties": {
+      "name": "LetterD",
+      "type": "Land",
+      "image": "D.png",
+      "updatable": "false",
+      "updateTime": "0",
+      "updateTransformation": "",
+      "expirable": "false",
+      "expireTime": "0",
+      "expireTransformation": ""
+    },
+    "listProperties": {},
+    "propertiesType": {},
+    "mapProperties": {
+      "interactTransformations": {
+      },
+      "interactDropMultipliers": {},
+      "plantableSeeds": {
+      }
+    }
+  },
+  "LetterE": {
+    "properties": {
+      "name": "LetterE",
+      "type": "Land",
+      "image": "E.png",
+      "updatable": "false",
+      "updateTime": "0",
+      "updateTransformation": "",
+      "expirable": "false",
+      "expireTime": "0",
+      "expireTransformation": ""
+    },
+    "listProperties": {},
+    "propertiesType": {},
+    "mapProperties": {
+      "interactTransformations": {
+      },
+      "interactDropMultipliers": {},
+      "plantableSeeds": {
+      }
+    }
+  },
+  "LetterF": {
+    "properties": {
+      "name": "LetterF",
+      "type": "Land",
+      "image": "F.png",
+      "updatable": "false",
+      "updateTime": "0",
+      "updateTransformation": "",
+      "expirable": "false",
+      "expireTime": "0",
+      "expireTransformation": ""
+    },
+    "listProperties": {},
+    "propertiesType": {},
+    "mapProperties": {
+      "interactTransformations": {
+      },
+      "interactDropMultipliers": {},
+      "plantableSeeds": {
+      }
+    }
+  },
+  "LetterG": {
+    "properties": {
+      "name": "LetterG",
+      "type": "Land",
+      "image": "G.png",
+      "updatable": "false",
+      "updateTime": "0",
+      "updateTransformation": "",
+      "expirable": "false",
+      "expireTime": "0",
+      "expireTransformation": ""
+    },
+    "listProperties": {},
+    "propertiesType": {},
+    "mapProperties": {
+      "interactTransformations": {
+      },
+      "interactDropMultipliers": {},
+      "plantableSeeds": {
+      }
+    }
+  },
+  "LetterH": {
+    "properties": {
+      "name": "LetterH",
+      "type": "Land",
+      "image": "H.png",
+      "updatable": "false",
+      "updateTime": "0",
+      "updateTransformation": "",
+      "expirable": "false",
+      "expireTime": "0",
+      "expireTransformation": ""
+    },
+    "listProperties": {},
+    "propertiesType": {},
+    "mapProperties": {
+      "interactTransformations": {
+      },
+      "interactDropMultipliers": {},
+      "plantableSeeds": {
+      }
+    }
+  },
+  "LetterI": {
+    "properties": {
+      "name": "LetterI",
+      "type": "Land",
+      "image": "I.png",
+      "updatable": "false",
+      "updateTime": "0",
+      "updateTransformation": "",
+      "expirable": "false",
+      "expireTime": "0",
+      "expireTransformation": ""
+    },
+    "listProperties": {},
+    "propertiesType": {},
+    "mapProperties": {
+      "interactTransformations": {
+      },
+      "interactDropMultipliers": {},
+      "plantableSeeds": {
+      }
+    }
+  },
+  "LetterJ": {
+    "properties": {
+      "name": "LetterJ",
+      "type": "Land",
+      "image": "J.png",
+      "updatable": "false",
+      "updateTime": "0",
+      "updateTransformation": "",
+      "expirable": "false",
+      "expireTime": "0",
+      "expireTransformation": ""
+    },
+    "listProperties": {},
+    "propertiesType": {},
+    "mapProperties": {
+      "interactTransformations": {
+      },
+      "interactDropMultipliers": {},
+      "plantableSeeds": {
+      }
+    }
+  },
+  "LetterK": {
+    "properties": {
+      "name": "LetterK",
+      "type": "Land",
+      "image": "K.png",
+      "updatable": "false",
+      "updateTime": "0",
+      "updateTransformation": "",
+      "expirable": "false",
+      "expireTime": "0",
+      "expireTransformation": ""
+    },
+    "listProperties": {},
+    "propertiesType": {},
+    "mapProperties": {
+      "interactTransformations": {
+      },
+      "interactDropMultipliers": {},
+      "plantableSeeds": {
+      }
+    }
+  },
+  "LetterL": {
+    "properties": {
+      "name": "LetterL",
+      "type": "Land",
+      "image": "L.png",
+      "updatable": "false",
+      "updateTime": "0",
+      "updateTransformation": "",
+      "expirable": "false",
+      "expireTime": "0",
+      "expireTransformation": ""
+    },
+    "listProperties": {},
+    "propertiesType": {},
+    "mapProperties": {
+      "interactTransformations": {
+      },
+      "interactDropMultipliers": {},
+      "plantableSeeds": {
+      }
+    }
+  },
+  "LetterM": {
+    "properties": {
+      "name": "LetterM",
+      "type": "Land",
+      "image": "M.png",
+      "updatable": "false",
+      "updateTime": "0",
+      "updateTransformation": "",
+      "expirable": "false",
+      "expireTime": "0",
+      "expireTransformation": ""
+    },
+    "listProperties": {},
+    "propertiesType": {},
+    "mapProperties": {
+      "interactTransformations": {
+      },
+      "interactDropMultipliers": {},
+      "plantableSeeds": {
+      }
+    }
+  },
+  "LetterN": {
+    "properties": {
+      "name": "LetterN",
+      "type": "Land",
+      "image": "N.png",
+      "updatable": "false",
+      "updateTime": "0",
+      "updateTransformation": "",
+      "expirable": "false",
+      "expireTime": "0",
+      "expireTransformation": ""
+    },
+    "listProperties": {},
+    "propertiesType": {},
+    "mapProperties": {
+      "interactTransformations": {
+      },
+      "interactDropMultipliers": {},
+      "plantableSeeds": {
+      }
+    }
+  },
+  "LetterO": {
+    "properties": {
+      "name": "LetterO",
+      "type": "Land",
+      "image": "O.png",
+      "updatable": "false",
+      "updateTime": "0",
+      "updateTransformation": "",
+      "expirable": "false",
+      "expireTime": "0",
+      "expireTransformation": ""
+    },
+    "listProperties": {},
+    "propertiesType": {},
+    "mapProperties": {
+      "interactTransformations": {
+      },
+      "interactDropMultipliers": {},
+      "plantableSeeds": {
+      }
+    }
+  },
+  "LetterP": {
+    "properties": {
+      "name": "LetterP",
+      "type": "Land",
+      "image": "P.png",
+      "updatable": "false",
+      "updateTime": "0",
+      "updateTransformation": "",
+      "expirable": "false",
+      "expireTime": "0",
+      "expireTransformation": ""
+    },
+    "listProperties": {},
+    "propertiesType": {},
+    "mapProperties": {
+      "interactTransformations": {
+      },
+      "interactDropMultipliers": {},
+      "plantableSeeds": {
+      }
+    }
+  },
+  "LetterQ": {
+    "properties": {
+      "name": "LetterQ",
+      "type": "Land",
+      "image": "Q.png",
+      "updatable": "false",
+      "updateTime": "0",
+      "updateTransformation": "",
+      "expirable": "false",
+      "expireTime": "0",
+      "expireTransformation": ""
+    },
+    "listProperties": {},
+    "propertiesType": {},
+    "mapProperties": {
+      "interactTransformations": {
+      },
+      "interactDropMultipliers": {},
+      "plantableSeeds": {
+      }
+    }
+  },
+  "LetterR": {
+    "properties": {
+      "name": "LetterR",
+      "type": "Land",
+      "image": "R.png",
+      "updatable": "false",
+      "updateTime": "0",
+      "updateTransformation": "",
+      "expirable": "false",
+      "expireTime": "0",
+      "expireTransformation": ""
+    },
+    "listProperties": {},
+    "propertiesType": {},
+    "mapProperties": {
+      "interactTransformations": {
+      },
+      "interactDropMultipliers": {},
+      "plantableSeeds": {
+      }
+    }
+  },
+  "LetterS": {
+    "properties": {
+      "name": "LetterS",
+      "type": "Land",
+      "image": "S.png",
+      "updatable": "false",
+      "updateTime": "0",
+      "updateTransformation": "",
+      "expirable": "false",
+      "expireTime": "0",
+      "expireTransformation": ""
+    },
+    "listProperties": {},
+    "propertiesType": {},
+    "mapProperties": {
+      "interactTransformations": {
+      },
+      "interactDropMultipliers": {},
+      "plantableSeeds": {
+      }
+    }
+  },
+  "LetterT": {
+    "properties": {
+      "name": "LetterT",
+      "type": "Land",
+      "image": "T.png",
+      "updatable": "false",
+      "updateTime": "0",
+      "updateTransformation": "",
+      "expirable": "false",
+      "expireTime": "0",
+      "expireTransformation": ""
+    },
+    "listProperties": {},
+    "propertiesType": {},
+    "mapProperties": {
+      "interactTransformations": {
+      },
+      "interactDropMultipliers": {},
+      "plantableSeeds": {
+      }
+    }
+  },
+  "LetterU": {
+    "properties": {
+      "name": "LetterU",
+      "type": "Land",
+      "image": "U.png",
+      "updatable": "false",
+      "updateTime": "0",
+      "updateTransformation": "",
+      "expirable": "false",
+      "expireTime": "0",
+      "expireTransformation": ""
+    },
+    "listProperties": {},
+    "propertiesType": {},
+    "mapProperties": {
+      "interactTransformations": {
+      },
+      "interactDropMultipliers": {},
+      "plantableSeeds": {
+      }
+    }
+  },
+  "LetterV": {
+    "properties": {
+      "name": "LetterV",
+      "type": "Land",
+      "image": "V.png",
+      "updatable": "false",
+      "updateTime": "0",
+      "updateTransformation": "",
+      "expirable": "false",
+      "expireTime": "0",
+      "expireTransformation": ""
+    },
+    "listProperties": {},
+    "propertiesType": {},
+    "mapProperties": {
+      "interactTransformations": {
+      },
+      "interactDrop Multipliers": {},
+      "plantableSeeds": {
+      }
+    }
+  },
+  "LetterW": {
+    "properties": {
+      "name": "LetterW",
+      "type": "Land",
+      "image": "W.png",
+      "updatable": "false",
+      "updateTime": "0",
+      "updateTransformation": "",
+      "expirable": "false",
+      "expireTime": "0",
+      "expireTransformation": ""
+    },
+    "listProperties": {},
+    "propertiesType": {},
+    "mapProperties": {
+      "interactTransformations": {
+      },
+      "interactDrop Multipliers": {},
+      "plantableSeeds": {
+      }
+    }
+  },
+  "LetterX": {
+    "properties": {
+      "name": "LetterX",
+      "type": "Land",
+      "image": "X.png",
+      "updatable": "false",
+      "updateTime": "0",
+      "updateTransformation": "",
+      "expirable": "false",
+      "expireTime": "0",
+      "expireTransformation": ""
+    },
+    "listProperties": {},
+    "propertiesType": {},
+    "mapProperties": {
+      "interactTransformations": {
+      },
+      "interactDrop Multipliers": {},
+      "plantableSeeds": {
+      }
+    }
+  },
+  "LetterY": {
+    "properties": {
+      "name": "LetterY",
+      "type": "Land",
+      "image": "Y.png",
+      "updatable": "false",
+      "updateTime": "0",
+      "updateTransformation": "",
+      "expirable": "false",
+      "expireTime": "0",
+      "expireTransformation": ""
+    },
+    "listProperties": {},
+    "propertiesType": {},
+    "mapProperties": {
+      "interactTransformations": {
+      },
+      "interactDrop Multipliers": {},
+      "plantableSeeds": {
+      }
+    }
+  },
+  "LetterZ": {
+    "properties": {
+      "name": "LetterZ",
+      "type": "Land",
+      "image": "Z.png",
+      "updatable": "false",
+      "updateTime": "0",
+      "updateTransformation": "",
+      "expirable": "false",
+      "expireTime": "0",
+      "expireTransformation": ""
+    },
+    "listProperties": {},
+    "propertiesType": {},
+    "mapProperties": {
+      "interactTransformations": {
+      },
+      "interactDrop Multipliers": {},
+      "plantableSeeds": {
+      }
+    }
+  }
+}

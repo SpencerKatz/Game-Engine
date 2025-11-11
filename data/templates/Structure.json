@@ -1,0 +1,27 @@
+{
+  "properties": {
+    "name": "STRUCTURE",
+    "type": "Structure",
+    "image": "",
+    "updatable": "",
+    "updateTime": "",
+    "updateTransformation": "",
+    "expirable": "",
+    "expireTime": "",
+    "expireTransformation": "",
+    "destructable": ""
+  },
+  "listProperties": {
+    // if empty, then can be destroyed by any item, otherwise only items listed can destroy this structure
+    "destructableTools": [
+      ""
+    ]
+  },
+  "mapProperties": {
+    "interactTransformations": {
+    },
+    "interactDropMultipliers": {
+    },
+    "dropsOnDestruction": {} // currently doesn't drop anything
+  }
+}

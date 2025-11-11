@@ -1,0 +1,44 @@
+{
+  "components": [
+    {
+      "type": "Button",
+      "properties": {
+        "text": "Load Game",
+        "id": "loadButton"
+      },
+      "event": "loadGame"
+    },
+    {
+      "type": "Button",
+      "properties": {
+        "text": "Save Game",
+        "id": "saveButton"
+      },
+      "event": "saveGame"
+    },
+    {
+      "type": "Button",
+      "properties": {
+        "text": "Center",
+        "id": "sendThoughtButton"
+      },
+      "event": "center"
+    },
+    {
+      "type": "Button",
+      "properties": {
+        "text": "Back",
+        "id": "backButton"
+      },
+      "event": "back"
+    },
+    {
+      "type": "Button",
+      "properties": {
+        "text": "Logout",
+        "id": "logoutButton"
+      },
+      "event": "logout"
+    }
+  ]
+}

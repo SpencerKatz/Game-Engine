@@ -1,0 +1,26 @@
+{
+  "properties": {
+    "name": "Farmland",
+    "type": "Land",
+    "image": "farmland.png",
+    "updatable": true,
+    "updateTime": 500,
+    "updateTransformation": "Dirt", // turns back to dirt after a while
+    "expirable": false,
+    "expireTime": 0,
+    // or null
+    "expireTransformation": ""
+  },
+  "listProperties": {},
+  "mapProperties": {
+    "interactTransformations": {
+    },
+    "interactDropMultipliers": {
+    },
+    // LAND ONLY
+    // Seeds to the structure it plants on top of the land
+    "plantableSeeds": {
+      "Wheat Seeds": "Germinating Wheat"
+    }
+  }
+}

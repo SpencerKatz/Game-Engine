@@ -1,0 +1,63 @@
+{
+  "components": [
+    {
+      "type": "Label",
+      "properties": {
+        "text": "Register",
+        "style": "-fx-font-size: 24px;"
+      }
+    },
+    {
+      "type": "Label",
+      "properties": {
+        "text": "Username:"
+      }
+    },
+    {
+      "type": "TextField",
+      "properties": {
+        "id": "usernameField"
+      }
+    },
+    {
+      "type": "Label",
+      "properties": {
+        "text": "Email:"
+      }
+    },
+    {
+      "type": "TextField",
+      "properties": {
+        "id": "emailField"
+      }
+    },
+    {
+      "type": "Label",
+      "properties": {
+        "text": "Password:"
+      }
+    },
+    {
+      "type": "PasswordField",
+      "properties": {
+        "id": "passwordField"
+      }
+    },
+    {
+      "type": "Button",
+      "properties": {
+        "text": "Register",
+        "id": "registerButton"
+      },
+      "event": "register"
+    },
+    {
+      "type": "Button",
+      "properties": {
+        "text": "Back",
+        "id": "backButton"
+      },
+      "event": "back"
+    }
+  ]
+}

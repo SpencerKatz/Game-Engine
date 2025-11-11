@@ -1,0 +1,28 @@
+{
+  "properties": {
+    "name": "Boulder",
+    "type": "Structure",
+    "image": "boulder.png",
+    "updatable": false,
+    "updateTime": 0,
+    "updateTransformation": "",
+    "expirable": false,
+    "expireTime": 0,
+    "expireTransformation": "",
+    "destructable": true
+    // change to a list of tools later?
+  },
+  "listProperties": {
+      // if empty, then can be destroyed by any item, otherwise only items listed can destroy this structure
+      "destructableTools": [
+        "Pickaxe"
+      ]
+    },
+  "mapProperties": {
+    "interactTransformations": {
+    },
+    "interactDropMultipliers": {
+    },
+    "dropsOnDestruction": {} // currently doesn't drop anything
+  }
+}

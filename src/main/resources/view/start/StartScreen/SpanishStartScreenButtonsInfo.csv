@@ -1,0 +1,3 @@
+Crear, lightblue, oogasalad.view.editor.EditorScene, start
+Jugar, lightgreen, oogasalad.view.start.PlayModeSplashScreen, open
+Elige Lengua, yellow, oogasalad.view.start.StartScreen, openLanguageDialogBox

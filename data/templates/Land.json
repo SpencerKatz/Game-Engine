@@ -1,0 +1,25 @@
+{
+  "properties": {
+    "name": "LAND",
+    "type": "Land",
+    "image": "",
+    "updatable": "",
+    "updateTime": "",
+    "updateTransformation": "", // turns back to dirt after a while
+    "expirable": "",
+    "expireTime": "",
+    // or null
+    "expireTransformation": ""
+  },
+  "listProperties": {},
+  "mapProperties": {
+    "interactTransformations": {
+    },
+    "interactDropMultipliers": {
+    },
+    // LAND ONLY
+    // Seeds to the structure it plants on top of the land
+    "plantableSeeds": {
+    }
+  }
+}

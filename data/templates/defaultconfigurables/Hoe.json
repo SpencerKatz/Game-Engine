@@ -1,0 +1,15 @@
+{
+  "properties": {
+    "name": "Hoe",
+    "type": "Item",
+    "image": "hoe.png",
+    "worth": 100,
+    "consumable": false,
+    // amount to change energy after a successful interaction or use
+    "energyChange": -1,
+    // do not interact with the world, just consume and apply effects
+    "edible": false
+  },
+  "listProperties": {},
+  "mapProperties": {}
+}

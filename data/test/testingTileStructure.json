@@ -1,0 +1,28 @@
+{
+  "properties": {
+    "name": "plant",
+    "type": "Structure",
+    "image": "/img/plant.jpg",
+    "updatable": false,
+    "updateTime": 1000,
+    "updateTransformation":  "wheat",
+    "expirable": false,
+    "expireTime": 0,
+    "expireTransformation": "",
+    "destructable": false
+  },
+  "listProperties": {
+    "destructableTools": []
+  },
+  "mapProperties": {
+    "interactTransformations": {
+      "validItem": "wheat",
+      "hoe": "wheat"
+    },
+    "interactDropMultipliers": {
+    },
+    "dropsOnDestruction": {
+      "seed": 2
+    }
+  }
+}

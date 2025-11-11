@@ -1,0 +1,20 @@
+{
+  "properties": {
+    "name": "COLLECTABLE",
+    "type": "Collectable",
+    "image": "",
+    "updatable": "",
+    "updateTime": "",
+    "updateTransformation":  "",
+    "expirable": "",
+    "expireTime": "",
+    "expireTransformation": ""
+  },
+  "listProperties": {},
+  "mapProperties": {
+    "interactTransformations": {
+    },
+    "interactDropMultipliers": {
+    }
+  }
+}

@@ -1,0 +1,466 @@
+{
+  "configurables": {
+    "Foliage": {
+      "properties": {
+        "name": "Foliage",
+        "type": "Structure",
+        "image": "foliage.png",
+        "updatable": "false",
+        "updateTime": "0",
+        "updateTransformation": "",
+        "expirable": "false",
+        "expireTime": "0",
+        "expireTransformation": "",
+        "destructable": "true"
+      },
+      "listProperties": {
+        "destructableTools": []
+      },
+      "propertiesType": {},
+      "mapProperties": {
+        "interactTransformations": {},
+        "interactDropMultipliers": {},
+        "dropsOnDestruction": {}
+      }
+    },
+    "Germinating Wheat": {
+      "properties": {
+        "name": "Germinating Wheat",
+        "type": "Structure",
+        "image": "germinating_wheat.png",
+        "updatable": "true",
+        "updateTime": "120",
+        "updateTransformation": "Wheat",
+        "expirable": "false",
+        "expireTime": "0",
+        "expireTransformation": "",
+        "destructable": "true"
+      },
+      "listProperties": {
+        "destructableTools": []
+      },
+      "propertiesType": {},
+      "mapProperties": {
+        "interactTransformations": {},
+        "interactDropMultipliers": {},
+        "dropsOnDestruction": {}
+      }
+    },
+    "Cake": {
+      "properties": {
+        "name": "Cake",
+        "type": "Item",
+        "image": "cake.png",
+        "worth": "100",
+        "consumable": "true",
+        "energyChange": "100",
+        "edible": "true"
+      },
+      "listProperties": {},
+      "propertiesType": {},
+      "mapProperties": {}
+    },
+    "Boulder": {
+      "properties": {
+        "name": "Boulder",
+        "type": "Structure",
+        "image": "boulder.png",
+        "updatable": "false",
+        "updateTime": "0",
+        "updateTransformation": "",
+        "expirable": "false",
+        "expireTime": "0",
+        "expireTransformation": "",
+        "destructable": "true"
+      },
+      "listProperties": {
+        "destructableTools": [
+          "Pickaxe"
+        ]
+      },
+      "propertiesType": {},
+      "mapProperties": {
+        "interactTransformations": {},
+        "interactDropMultipliers": {},
+        "dropsOnDestruction": {}
+      }
+    },
+    "Dirt": {
+      "properties": {
+        "name": "Dirt",
+        "type": "Land",
+        "image": "dirt.jpg",
+        "updatable": "false",
+        "updateTime": "0",
+        "updateTransformation": "",
+        "expirable": "false",
+        "expireTime": "0",
+        "expireTransformation": ""
+      },
+      "listProperties": {},
+      "propertiesType": {},
+      "mapProperties": {
+        "interactTransformations": {
+          "Hoe": "Farmland"
+        },
+        "interactDropMultipliers": {},
+        "plantableSeeds": {
+          "Wheat Seeds": "Foliage"
+        }
+      }
+    },
+    "Farmland": {
+      "properties": {
+        "name": "Farmland",
+        "type": "Land",
+        "image": "farmland.png",
+        "updatable": "true",
+        "updateTime": "500",
+        "updateTransformation": "Dirt",
+        "expirable": "false",
+        "expireTime": "0",
+        "expireTransformation": ""
+      },
+      "listProperties": {},
+      "propertiesType": {},
+      "mapProperties": {
+        "interactTransformations": {},
+        "interactDropMultipliers": {},
+        "plantableSeeds": {
+          "Wheat Seeds": "Germinating Wheat"
+        }
+      }
+    },
+    "Hoe": {
+      "properties": {
+        "name": "Hoe",
+        "type": "Item",
+        "image": "hoe.png",
+        "worth": "100",
+        "consumable": "false",
+        "energyChange": "-1",
+        "edible": "false"
+      },
+      "listProperties": {},
+      "propertiesType": {},
+      "mapProperties": {}
+    },
+    "Pickaxe": {
+      "properties": {
+        "name": "Pickaxe",
+        "type": "Item",
+        "image": "pickaxe.png",
+        "worth": "500",
+        "consumable": "false",
+        "energyChange": "-2",
+        "edible": "false"
+      },
+      "listProperties": {},
+      "propertiesType": {},
+      "mapProperties": {}
+    },
+    "Scythe": {
+      "properties": {
+        "name": "Scythe",
+        "type": "Item",
+        "image": "scythe.png",
+        "worth": "100",
+        "consumable": "false",
+        "energyChange": "-1",
+        "edible": "false"
+      },
+      "listProperties": {},
+      "propertiesType": {},
+      "mapProperties": {}
+    },
+    "Wheat": {
+      "properties": {
+        "name": "Wheat",
+        "type": "Structure",
+        "image": "wheat.png",
+        "updatable": "false",
+        "updateTime": "0",
+        "updateTransformation": "",
+        "expirable": "true",
+        "expireTime": "1440",
+        "expireTransformation": "",
+        "destructable": "true"
+      },
+      "listProperties": {
+        "destructableTools": [
+          "Scythe"
+        ]
+      },
+      "propertiesType": {},
+      "mapProperties": {
+        "interactTransformations": {},
+        "interactDropMultipliers": {},
+        "dropsOnDestruction": {
+          "Wheat Seeds": "4",
+          "Wheat Bundle": "1"
+        }
+      }
+    },
+    "Wheat Bundle": {
+      "properties": {
+        "name": "Wheat Bundle",
+        "type": "Item",
+        "image": "wheat_item.png",
+        "worth": "25",
+        "consumable": "false",
+        "energyChange": "0",
+        "edible": "false"
+      },
+      "listProperties": {},
+      "propertiesType": {},
+      "mapProperties": {}
+    },
+    "Wheat Seeds": {
+      "properties": {
+        "name": "Wheat Seeds",
+        "type": "Item",
+        "image": "wheat_seeds.png",
+        "worth": "5",
+        "consumable": "true",
+        "energyChange": "-1",
+        "edible": "false"
+      },
+      "listProperties": {},
+      "propertiesType": {},
+      "mapProperties": {}
+    },
+    "COLLECTABLE": {
+      "properties": {
+        "name": "COLLECTABLE",
+        "type": "Collectable",
+        "image": "",
+        "updatable": "false",
+        "updateTime": "0",
+        "updateTransformation": "",
+        "expirable": "true",
+        "expireTime": "1440",
+        "expireTransformation": ""
+      },
+      "listProperties": {},
+      "propertiesType": {},
+      "mapProperties": {
+        "interactTransformations": {},
+        "interactDropMultipliers": {}
+      }
+    },
+    "PumpkinOne": {
+      "properties": {
+        "name": "PumpkinOne",
+        "type": "Structure",
+        "image": "pumpkinPlantOne.png",
+        "updatable": "true",
+        "updateTime": "10",
+        "updateTransformation": "pumpkinTwo",
+        "expirable": "false",
+        "expireTime": "0",
+        "expireTransformation": "None",
+        "destructable": "false"
+      },
+      "listProperties": {
+        "destructableTools": [
+          ""
+        ]
+      },
+      "propertiesType": {},
+      "mapProperties": {
+        "interactTransformations": {
+          "fertilizer": "pumpkinThree",
+          "magic dust": "WatermelonOne"
+        },
+        "interactDropMultipliers": {},
+        "dropsOnDestruction": {}
+      }
+    },
+    "pumpkinTwo": {
+      "properties": {
+        "name": "pumpkinTwo",
+        "type": "Structure",
+        "image": "pumpkinTwo.png",
+        "updatable": "true",
+        "updateTime": "20",
+        "updateTransformation": "pumpkinThree",
+        "expirable": "false",
+        "expireTime": "0",
+        "expireTransformation": "None",
+        "destructable": "false"
+      },
+      "listProperties": {
+        "destructableTools": [
+          ""
+        ]
+      },
+      "propertiesType": {},
+      "mapProperties": {
+        "interactTransformations": {
+          "fertilizer": "pumpkinThree"
+        },
+        "interactDropMultipliers": {},
+        "dropsOnDestruction": {}
+      }
+    },
+    "pumpkinThree": {
+      "properties": {
+        "name": "pumpkinThree",
+        "type": "Structure",
+        "image": "pumpkinThree.png",
+        "updatable": "true",
+        "updateTime": "20",
+        "updateTransformation": "pumpkinFinal",
+        "expirable": "false",
+        "expireTime": "0",
+        "expireTransformation": "None",
+        "destructable": "false"
+      },
+      "listProperties": {
+        "destructableTools": [
+          ""
+        ]
+      },
+      "propertiesType": {},
+      "mapProperties": {
+        "interactTransformations": {},
+        "interactDropMultipliers": {},
+        "dropsOnDestruction": {}
+      }
+    },
+    "pumpkinFinal": {
+      "properties": {
+        "name": "pumpkinFinal",
+        "type": "Structure",
+        "image": "pumpkinFinal.png",
+        "updatable": "false",
+        "updateTime": "0",
+        "updateTransformation": "None",
+        "expirable": "true",
+        "expireTime": "20",
+        "expireTransformation": "None",
+        "destructable": "true"
+      },
+      "listProperties": {
+        "destructableTools": [
+          "Bronze Scythe"
+        ]
+      },
+      "propertiesType": {},
+      "mapProperties": {
+        "interactTransformations": {},
+        "interactDropMultipliers": {},
+        "dropsOnDestruction": {
+          "pumpkinSeed": "2",
+          "pumpkin": "1"
+        }
+      }
+    },
+    "fertilizer": {
+      "properties": {
+        "name": "fertilizer",
+        "type": "Item",
+        "image": "fertilizer.png",
+        "worth": "10",
+        "consumable": "true",
+        "energyChange": "0",
+        "edible": "false"
+      },
+      "listProperties": {},
+      "propertiesType": {},
+      "mapProperties": {}
+    },
+    "Bronze Scythe": {
+      "properties": {
+        "name": "Bronze Scythe",
+        "type": "Item",
+        "image": "bronzeScythe.png",
+        "worth": "30",
+        "consumable": "false",
+        "energyChange": "2",
+        "edible": "false"
+      },
+      "listProperties": {},
+      "propertiesType": {},
+      "mapProperties": {}
+    },
+    "pumpkin": {
+      "properties": {
+        "name": "pumpkin",
+        "type": "Item",
+        "image": "pumpkinItem.png",
+        "worth": "10",
+        "consumable": "true",
+        "energyChange": "3",
+        "edible": "true"
+      },
+      "listProperties": {},
+      "propertiesType": {},
+      "mapProperties": {}
+    },
+    "pumpkinSeed": {
+      "properties": {
+        "name": "pumpkinSeed",
+        "type": "Item",
+        "image": "pumpkinSeed.png",
+        "worth": "1",
+        "consumable": "true",
+        "energyChange": "0",
+        "edible": "false"
+      },
+      "listProperties": {},
+      "propertiesType": {},
+      "mapProperties": {}
+    },
+    "WatermelonOne": {
+      "properties": {
+        "name": "WatermelonOne",
+        "type": "Structure",
+        "image": "watermelonOne.png",
+        "updatable": "true",
+        "updateTime": "30",
+        "updateTransformation": "watermelonTwo",
+        "expirable": "false",
+        "expireTime": "0",
+        "expireTransformation": "None",
+        "destructable": "false"
+      },
+      "listProperties": {
+        "destructableTools": [
+          ""
+        ]
+      },
+      "propertiesType": {},
+      "mapProperties": {
+        "interactTransformations": {},
+        "interactDropMultipliers": {},
+        "dropsOnDestruction": {}
+      }
+    },
+    "watermelonTwo": {
+      "properties": {
+        "name": "watermelonTwo",
+        "type": "Structure",
+        "image": "",
+        "updatable": "",
+        "updateTime": "",
+        "updateTransformation": "",
+        "expirable": "",
+        "expireTime": "",
+        "expireTransformation": "",
+        "destructable": ""
+      },
+      "listProperties": {
+        "destructableTools": [
+          ""
+        ]
+      },
+      "propertiesType": {},
+      "mapProperties": {
+        "interactTransformations": {},
+        "interactDropMultipliers": {},
+        "dropsOnDestruction": {}
+      }
+    }
+  }
+}

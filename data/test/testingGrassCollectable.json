@@ -1,0 +1,21 @@
+{
+  "properties": {
+    "name": "grass_collectable",
+    "type": "Collectable",
+    "image": "/img/grass.jpg",
+    "updatable": true,
+    "updateTime": 10,
+    "updateTransformation": "",
+    "expirable": false,
+    "expireTime": 120,
+    "expireTransformation": ""
+  },
+  "listProperties": {},
+  "mapProperties": {
+    "interactTransformations": {
+      "validItem": "empty"
+    },
+    "interactDropMultipliers": {
+    }
+  }
+}

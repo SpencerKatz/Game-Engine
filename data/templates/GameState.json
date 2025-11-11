@@ -1,0 +1,113 @@
+{
+  "gameWorld": {
+    "allTiles": [
+      [
+        {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        {
+          "collectable": null,
+          "structure": null,
+          "land": null,
+          "lastUpdatingGameTime": null
+        }
+      ]
+    ],
+    "height": 1,
+    "width": 1,
+    "depth": 1
+  },
+  "gameTime": {
+    "previous": {
+      "data": "2024-04-27T04:51:45.292003700Z"
+    },
+    "accumulate": 0,
+    "day": 1,
+    "hour": 8,
+    "minute": 0
+  },
+  "selectedItem": null,
+  "energy": 20.0,
+  "maxEnergy": 20.0,
+  "money": 0,
+  "shop": {
+    "itemRotationSize": 3,
+    "possibleItems": [
+      {
+        "type": "oogasalad.model.gameobject.Item",
+        "data": "{\"itemId\":\"Wheat Seeds\"}"
+      },
+      {
+        "type": "oogasalad.model.gameobject.Item",
+        "data": "{\"itemId\":\"Hoe\"}"
+      },
+      {
+        "type": "oogasalad.model.gameobject.Item",
+        "data": "{\"itemId\":\"Pickaxe\"}"
+      },
+      {
+        "type": "oogasalad.model.gameobject.Item",
+        "data": "{\"itemId\":\"Scythe\"}"
+      },
+      {
+        "type": "oogasalad.model.gameobject.Item",
+        "data": "{\"itemId\":\"Cake\"}"
+      }
+    ],
+    "previousRotationTime": {
+      "type": "oogasalad.model.gameplay.GameTime",
+      "data": "{\"previous\":{\"data\":\"2024-04-27T04:51:45.293001400Z\"},\"accumulate\":0,\"day\":1,\"hour\":0,\"minute\":8}"
+    },
+    "shopRotationTime": 1440,
+    "itemRotation": [
+      [
+        {
+          "type": "oogasalad.model.gameobject.Item",
+          "data": "{\"itemId\":\"Scythe\"}"
+        },
+        200.0
+      ],
+      [
+        {
+          "type": "oogasalad.model.gameobject.Item",
+          "data": "{\"itemId\":\"Pickaxe\"}"
+        },
+        1000.0
+      ],
+      [
+        {
+          "type": "oogasalad.model.gameobject.Item",
+          "data": "{\"itemId\":\"Hoe\"}"
+        },
+        200.0
+      ]
+    ]
+  },
+  "bag": {
+    "items": [
+      [
+        {
+          "type": "oogasalad.model.gameobject.Item",
+          "data": "{\"itemId\":\"Scythe\"}"
+        },
+        1
+      ],
+      [
+        {
+          "type": "oogasalad.model.gameobject.Item",
+          "data": "{\"itemId\":\"Wheat Seeds\"}"
+        },
+        5
+      ],
+      [
+        {
+          "type": "oogasalad.model.gameobject.Item",
+          "data": "{\"itemId\":\"Hoe\"}"
+        },
+        1
+      ]
+    ]
+  }
+}

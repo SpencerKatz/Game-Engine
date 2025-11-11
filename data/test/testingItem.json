@@ -1,0 +1,11 @@
+{
+  "properties": {
+    "name": "axe",
+    "type": "Item",
+    "image": "scythe.png",
+    "worth": 100,
+    "consumable": false
+  },
+  "listProperties": {},
+  "mapProperties": {}
+}
